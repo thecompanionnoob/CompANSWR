@@ -1,0 +1,309 @@
+#Tunisia Region (1392000)
+#under the rule of Tunisia in 1836
+#Tunis (488000/122000 POPS)
+1725 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 2350
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = protestant
+        size = 350
+    }
+
+    officers = {
+        culture = bedouin
+        religion = protestant
+        size = 325
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 1200
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 7500
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 76425
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 5000
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = protestant
+        size = 3725
+    }
+
+    artisans = {
+        culture = maltese
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = south_italian
+        religion = protestant
+        size = 500
+    }
+}
+#Bizerte (268000/67000 POPS)
+1726 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 1250
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 675
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 3250
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 58575
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 2000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = protestant
+        size = 250
+    }
+}
+#Gafsa (112000/28000 POPS)
+1727 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 275
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 22025
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 3000
+    }
+}
+#Kairouan (228000/57000 POPS)
+1728 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 875
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 2250
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 40225
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 12000
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = protestant
+        size = 245
+    }
+}
+#Tozeur (96000/24000 POPS)
+1729 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 950
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 17300
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 5000
+    }
+}
+#Gabes (200000/50000 POPS)
+1730 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 900
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 2275
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 40825
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 4000
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = protestant
+        size = 500
+    }
+
+}

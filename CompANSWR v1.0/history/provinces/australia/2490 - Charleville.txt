@@ -1,0 +1,6 @@
+owner = TRE
+controller = TRE
+add_core = FSA
+trade_goods = cattle
+terrain = savanna
+life_rating = 33

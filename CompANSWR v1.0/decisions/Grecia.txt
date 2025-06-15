@@ -1,0 +1,56 @@
+political_decisions = {
+        unite_with_greece  = {
+        picture = unite_with_greece
+        potential = {
+            OR = {                
+                tag = JAM
+                tag = NSR
+                                
+            }
+            NOT = { exists = GRE }
+			
+        }
+
+        allow = {         
+            war = no           
+            JAM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            NSR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+        }
+        effect = {                
+            prestige = 10
+            change_tag = GRE           
+            JAM = {
+				all_core = { add_core = GRE secede_province = THIS }
+			}
+            NSR = {
+				all_core = { add_core = GRE secede_province = THIS }
+			}  
+            add_accepted_culture = greek
+        }
+		ai_will_do = { factor = 1 }
+    }
+}

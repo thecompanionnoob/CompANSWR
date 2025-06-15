@@ -1,0 +1,583 @@
+#Ivory Coast Region (710000)
+#uncolonized in 1836
+#Grand Lahou (108000/27000 POPS)
+1892 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 275
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1075
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 275
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 19875
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 5000
+    }
+}
+#Sassandra (282000/47000 POPS)
+1893 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 8025
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 725
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 375
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 22025
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 10000
+    }
+}
+#Grand Bassam (88000/22000 POPS)
+1894 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 425
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 16025
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 4000
+    }
+}
+#Bouake (60000/15000 POPS)
+1895 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 8925
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 2700
+    }
+}
+#Man (80000/20000 POPS)
+1896 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 7300
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 425
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 15025
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 5000
+    }
+}
+#Akoupe (92000/23000 POPS)
+1897 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 425
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 950
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 18150
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 3000
+    }
+}
+#Worodugu Region (160000) #see Mali.txt and Burkina.txt for balance of Region
+#uncolonized in 1836/under the rule of the Emirs of Kong
+#Kong (264000/66000 POPS)
+1898 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 600
+    }
+
+    bureaucrats = {
+        culture = gur
+        religion = protestant
+        size = 345
+    }
+
+    officers = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1800
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 1105
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 525
+    }
+
+    bureaucrats = {
+        culture = gur
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 45375
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 4000
+    }
+}
+#Bundoukou (216000/54000 POPS)
+1899 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1650
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 1450
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1050
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 25125
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 3000
+    }
+}
+#Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region
+#uncolonized in 1836
+#Odienne (288000/72000 POPS) #now part of Ivory Coast
+1900 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 900
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 450
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1950
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 34500
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 750
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 13725
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 450
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 8100
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 9000
+    }
+
+}

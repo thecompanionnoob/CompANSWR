@@ -1,0 +1,88 @@
+political_decisions = {
+	Colombia  = {
+        picture = unite_gran_colombia
+        potential = {
+            OR = {                
+                tag = PNM
+                tag = GAR
+                tag = CRR  
+                tag = ECU      
+            }
+            NOT = { exists = GCO }
+        }
+        allow = {         
+            war = no          
+            PNM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			GAR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			CRR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            ECU = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+        }
+        effect = {                
+            prestige = 25
+            change_tag = GCO 
+            PNM = {
+				all_core = { add_core = GCO secede_province = THIS }
+			}
+            GAR = {
+				all_core = { add_core = GCO secede_province = THIS }
+			}
+            CRR = {
+				all_core = { add_core = GCO secede_province = THIS }
+			}
+            ECU = {
+				all_core = { add_core = GCO secede_province = THIS }
+			}   
+            add_accepted_culture = muisca
+            add_accepted_culture = central_american
+        }
+		ai_will_do = { factor = 1 }
+    }
+}

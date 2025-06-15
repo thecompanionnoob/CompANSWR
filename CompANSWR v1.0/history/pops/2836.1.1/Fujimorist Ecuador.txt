@@ -1,0 +1,325 @@
+#Quito Region (512000)
+#Ruled by Ecuador 1836
+#Quito (160000 POPS)
+2279 = {
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 550
+    }
+
+    bureaucrats = {
+        culture = pacinian
+        religion = protestant
+        size = 200
+    }
+
+    officers = {
+        culture = pacinian
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 235
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 1400
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 8800
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 68725
+    }
+
+    serfs = {
+        culture = pacinian
+        religion = protestant
+        size = 80000
+    }
+}
+
+#Guayaquil Region (328000)
+#Ruled by Ecuador 1836
+#Guayaquil (261590 POPS)
+2280 = {
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = pacinian
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = pacinian
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 203100
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 4425
+    }
+
+    serfs = {
+        culture = pacinian
+        religion = protestant
+        size = 50100
+    }
+}
+#Esmereldas / Esmeraldas(29000 POPS)
+2281 = {
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 225
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 13475
+    }
+
+    serfs = {
+        culture = pacinian
+        religion = protestant
+        size = 14000
+    }
+}
+#Loja (98984 POPS)
+2282 = {
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 550
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 3650
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 93400
+    }
+}
+
+#Tena (23000 POPS)
+2284 = {
+    serfs = {
+        culture = pacinian
+        religion = protestant
+        size = 6600
+    }
+
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 60
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 15175
+    }
+}
+
+#Zamora de Ecuador (14958 POPS)
+3384 = {
+    serfs = {
+        culture = pacinian
+        religion = protestant
+        size = 1600
+    }
+
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 60
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 10175
+    }
+}
+
+#Peruvian Iquitos (14958 POPS)
+3386 = {
+    aristocrats = {
+        culture = amazonian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = protestant
+        size = 3700
+    }
+}
+
+#Piura (132740 POPS)
+2291 = {
+    aristocrats = {
+        culture = pacinian
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = pacinian
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = pacinian
+        religion = protestant
+        size = 2550
+    }
+
+    soldiers = {
+        culture = pacinian
+        religion = protestant
+        size = 7300
+    }
+
+    farmers = {
+        culture = pacinian
+        religion = protestant
+        size = 48325
+    }
+
+    serfs = {
+        culture = pacinian
+        religion = protestant
+        size = 51000
+    }
+}

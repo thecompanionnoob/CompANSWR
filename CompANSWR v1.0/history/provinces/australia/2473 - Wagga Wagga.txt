@@ -1,0 +1,6 @@
+owner = HAE
+controller = HAE
+add_core = WAG
+trade_goods = grain
+terrain = savanna
+life_rating = 20

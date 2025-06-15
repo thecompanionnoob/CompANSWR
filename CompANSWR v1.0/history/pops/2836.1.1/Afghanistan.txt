@@ -1,0 +1,903 @@
+#Afghanistan Region (3672000)
+#under the rule of Afghanistan in 1836
+#Kabul (996000/249000 POPS)
+1209 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 2750
+    }
+
+    bureaucrats = {
+        culture = pashtun
+        religion = protestant
+        size = 825
+    }
+
+    officers = {
+        culture = pashtun
+        religion = protestant
+        size = 625
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 1375
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 5400
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 100025
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 2000
+    }
+
+    officers = {
+        culture = tajik
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 975
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 4900
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 82775
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 138
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 80662
+    }
+
+    slaves = {
+        culture = panjabi
+        religion = protestant
+        size = 14500
+    }
+
+    slaves = {
+        culture = uzbek
+        religion = protestant
+        size = 27500
+    }
+
+    slaves = {
+        culture = hazara
+        religion = protestant
+        size = 18000
+    }
+}
+#Balkh (516000/129000 POPS)
+1211 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 1600
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 813
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 1650
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 825
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 50112
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 388
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 1900
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 375
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 34587
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 88
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 6162
+    }
+
+    slaves = {
+        culture = pashtun
+        religion = protestant
+        size = 15000
+    }
+}
+#Herat (324000/81000 POPS)
+1212 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 825
+    }
+
+    bureaucrats = {
+        culture = pashtun
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 2050
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 34650
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 238
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 14912
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = protestant
+        size = 700
+    }
+
+    clergymen = {
+        culture = persian
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = persian
+        religion = protestant
+        size = 2000
+    }
+
+    soldiers = {
+        culture = persian
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = persian
+        religion = protestant
+        size = 15000
+    }
+
+    slaves = {
+        culture = uzbek
+        religion = protestant
+        size = 6500
+    }
+}
+#Bamyan (412000/103000 POPS)
+1213 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 163
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 425
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 27325
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 138
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 11912
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 525
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 513
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 24613
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 94
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 425
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 6306
+    }
+
+    slaves = {
+        culture = uzbek
+        religion = protestant
+        size = 8500
+    }
+}
+#Farrah (464000/116000 POPS)
+1214 = {
+    aristocrats = {
+        culture = persian
+        religion = protestant
+        size = 550
+    }
+
+    clergymen = {
+        culture = persian
+        religion = protestant
+        size = 288
+    }
+
+    artisans = {
+        culture = persian
+        religion = protestant
+        size = 1400
+    }
+
+    soldiers = {
+        culture = persian
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = persian
+        religion = protestant
+        size = 20762
+    }
+
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 1725
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 875
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 4400
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 70000
+    }
+
+    slaves = {
+        culture = persian
+        religion = protestant
+        size = 24000
+    }
+}
+#Kandahar (368000/92000 POPS)
+1215 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 1600
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 838
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 4050
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 72712
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 525
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 8100
+    }
+
+    slaves = {
+        culture = hazara
+        religion = protestant
+        size = 3000
+    }
+}
+#Jalalabad (268000/67000 POPS)
+1216 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 1300
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 675
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 3350
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 57985
+    }
+
+    slaves = {
+        culture = panjabi
+        religion = protestant
+        size = 3700
+    }
+}
+#Ghazni (324000/81000 POPS)
+1217 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 1350
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 688
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 3400
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 675
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 61887
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 113
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 650
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 11912
+    }
+
+    slaves = {
+        culture = hazara
+        religion = protestant
+        size = 3300
+    }
+}
+#Badakhshan Region (340000)
+#under the rule of Afghanistan in 1836
+#Faizabad (340000/85000 POPS)
+1210 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = uzbek
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 350
+    }
+
+    officers = {
+        culture = uzbek
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 5512
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 1650
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 775
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 3750
+    }
+
+    officers = {
+        culture = tajik
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 4000
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 62825
+    }
+
+    slaves = {
+        culture = tajik
+        religion = protestant
+        size = 6000
+    }
+
+}
+
+#Former South Gerorgia
+2133 = {
+    aristocrats = {
+        culture = pashtun
+        religion = protestant
+        size = 163
+    }
+
+    clergymen = {
+        culture = pashtun
+        religion = protestant
+        size = 87
+    }
+
+    artisans = {
+        culture = pashtun
+        religion = protestant
+        size = 425
+    }
+
+    soldiers = {
+        culture = pashtun
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = pashtun
+        religion = protestant
+        size = 7325
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 525
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 350
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 1263
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 24613
+    }
+
+    aristocrats = {
+        culture = hazara
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = hazara
+        religion = protestant
+        size = 94
+    }
+
+    artisans = {
+        culture = hazara
+        religion = protestant
+        size = 425
+    }
+
+    soldiers = {
+        culture = hazara
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = hazara
+        religion = protestant
+        size = 6306
+    }
+
+}

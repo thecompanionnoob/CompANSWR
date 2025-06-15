@@ -1,0 +1,843 @@
+#Angola : Angola (464000)
+#Ruled by Portugal in 1836
+#Luanda (164000/41000 POPS)
+1999 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 11550
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 40200
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 8600
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 2000
+    }
+}
+#uncolonized in 1836
+#2001 - Mbanza (180000/45000 POPS)
+2001 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 7350
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 12450
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 13250
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 3500
+    }
+}
+#Quibala (120000/30000 POPS)
+2002 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 1200
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 21950
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 6000
+    }
+
+}
+#Congo Region (116000) #see Congo-Zaire.txt for balance of region
+#uncolonized in 1836/tradepost for Portugal
+#Angola - Mbundu (440000)
+#Uncolonized in 1836
+#Benguela (116000/29000 POPS)
+2003 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 20800
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 5800
+    }
+}
+#Mocamedes (116000/29000 POPS)
+2004 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 600
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 750
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 21250
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 5800
+    }
+}
+#Huambo (208000/52000 POPS)
+2005 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 550
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 2600
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 600
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 36650
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 10000
+    }
+
+}
+#Angola - Bihe (264000)
+#Uncolonized in 1836
+#Kuito (148000/37000 POPS)
+2006 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 350
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 1800
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 26700
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 7500
+    }
+}
+#Mavinga (80000/20000 POPS)
+2007 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 2400
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 1350
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 800
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 11450
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 3200
+    }
+}
+#Ondjiva (36000/9000 POPS)
+2008 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 30
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 60
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 30
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 2205
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 600
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 4275
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 1250
+    }
+
+}
+#Angola - Kwango (232000)
+#Uncolonized in 1836
+#Malanje (44000/11000 POPS)
+2009 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 4350
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 1200
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 30
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 60
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 75
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 2175
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 600
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 1400
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 400
+    }
+}
+#Saurimo (112000/28000 POPS)
+2010 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 8000
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 10850
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 800
+    }
+}
+#Kubanda (76000/19000 POPS)
+2011 = {
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 750
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 8125
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 4700
+    }
+
+    aristocrats = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nork
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = nork
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = nork
+        religion = protestant
+        size = 3600
+    }
+
+    slaves = {
+        culture = nork
+        religion = protestant
+        size = 1100
+    }
+
+}

@@ -1,0 +1,186 @@
+political_decisions = {
+    skandinaviska_unionn = {
+        picture = form_scandinavia
+        potential = {
+            OR = {                
+                tag = SAP
+                tag = NOD
+                tag = FIN    
+                tag = VLA            
+            }
+            NOT = { exists = SCA }
+			
+        }
+        allow = {         
+            war = no          
+            SAP = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           NOD = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           FIN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+
+           VLA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+			province_id = 539
+			province_id = 531
+			province_id = 532
+			province_id = 540
+			province_id = 541
+			province_id = 535
+			province_id = 585
+			province_id = 534
+			province_id = 536
+			province_id = 582
+                    }
+                }
+	         }
+           
+        }
+        effect = {                
+            prestige = 25
+            change_tag = SCA    
+            SAP = {
+				all_core = { add_core = SCA secede_province = THIS}
+			}
+            NOD = {
+				all_core = { add_core = SCA secede_province = THIS}
+			}
+            
+            FIN = {
+				all_core = { add_core = SCA secede_province = THIS}
+			}
+            
+            VLA = {
+				all_core = { add_core = SCA secede_province = THIS}
+			}
+            add_accepted_culture = swedish
+            add_accepted_culture = norwegian
+            add_accepted_culture = finnish
+            add_accepted_culture = danish
+	        add_accepted_culture = scottish_greenlander 
+	        add_accepted_culture = french_greenlander  
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Baltic_Sca = {
+        picture = form_scandinavia
+        potential = {
+            OR = {                
+                tag = SCA                            
+            }
+            NOT = { exists = BLT }
+			
+        }
+
+        allow = {         
+            war = no          
+            LIT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            IZH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            EST = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BLT
+            LIT = {
+				all_core = { add_core = BLT secede_province = THIS }
+			}
+            IZH = {
+				all_core = { add_core = BLT secede_province = THIS }
+			}
+            EST = {
+				all_core = { add_core = BLT secede_province = THIS }
+			}                       
+            add_accepted_culture = paltijan
+            add_accepted_culture = tesredinikh
+            add_accepted_culture = osti
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	
+}

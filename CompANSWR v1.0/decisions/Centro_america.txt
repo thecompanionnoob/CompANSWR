@@ -1,0 +1,121 @@
+political_decisions = {
+        centro	  = {
+        picture = form_USCA
+        potential = {
+            OR = {                
+                tag = GUA
+                tag = YUC
+                tag = NIC  
+                tag = CHP 
+                tag = ELS
+                tag = HON           
+            }
+            NOT = { exists = UCA }
+			
+        }
+
+        allow = {         
+            war = no          
+            GUA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           CHP = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           YUC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           NIC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           HON = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = UCA   
+            NIC = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            CHP = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            ELS = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            HON = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            YUC = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            GUA = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            
+            PNM = {
+				all_core = { add_core = UCA secede_province = THIS }
+			}
+            add_accepted_culture = mayan
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

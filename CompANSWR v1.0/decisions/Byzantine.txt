@@ -1,0 +1,68 @@
+political_decisions = {
+        form_byzantine_empiree  = {
+        picture = form_byzantine_empire
+        potential = {
+            OR = {                
+                tag = GRE
+                
+                                
+            }
+            NOT = { exists = BYZ }
+			
+        }
+
+        allow = {         
+            war = no           
+            IST = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+           TUR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }   
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = BYZ           
+            JAM = {
+				all_core = { add_core = BYZ secede_province = THIS}
+			}
+            NSR = {
+				all_core = { add_core = BYZ secede_province = THIS}
+			}
+            TUR = {
+				all_core = { add_core = BYZ secede_province = THIS}
+			}
+            IST = {
+				all_core = { add_core = BYZ secede_province = THIS}
+			}         
+            
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

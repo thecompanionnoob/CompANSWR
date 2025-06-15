@@ -1,0 +1,101 @@
+political_decisions = {
+	Judea  = {
+        picture = Bulgaria
+        potential = {
+            OR = {                
+                tag = ISR
+                
+                                
+            }
+            NOT = {has_global_flag = judios}
+			
+        }
+
+        allow = {         
+            war = no           
+            SYR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           LBN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+            HDJ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }         
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            set_global_flag= judios
+            SYR = {
+				all_core = { add_core = ISR secede_province = THIS }
+			}
+            LBN = {
+				all_core = { add_core = ISR secede_province = THIS }
+			}
+            HDJ = {
+				all_core = { add_core = ISR secede_province = THIS }
+			}
+            government = hms_government 
+            
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+	the_sinai_settlements = {
+		potential = {
+			tag = ISR
+			NOT = { has_country_flag = sinai_renamed }
+		}
+		
+		allow = {
+			NOT = { war = yes }
+			owns = 921
+			owns = 922
+			owns = 1757
+			money = 20000
+		}
+		
+		effect = { 
+			prestige = 5
+			921 = { change_province_name = "Be'er Sheva" }
+			922 = { change_province_name = "Elath" }
+			1757 = { change_province_name = "Ofira" }
+			set_country_flag = sinai_renamed
+			money = -20000
+		}
+	}	
+}

@@ -1,0 +1,32 @@
+
+
+
+army = {
+    name = "Royal army of Sulu"
+    location = 1462
+    regiment = {
+        name= "Infantry"
+        type = infantry
+        home = 1462    
+    }
+    regiment = {
+        name= "Infantry"
+        type = infantry
+        home = 1462    
+    }
+    regiment = {
+        name= "Infantry"
+        type = infantry
+        home = 1462    
+    }
+    regiment = {
+        name= "Infantry"
+        type = infantry
+        home = 3338    
+    }
+    regiment = {
+        name= "Infantry"
+        type = infantry
+        home = 3338    
+    }
+}

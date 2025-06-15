@@ -1,0 +1,323 @@
+#Trarza-Brakna Region (276000)
+#uncolonized in 1836/ruled by Emir of Trarza
+#Nouakchott (92000/23000 POPS)
+1775 = {
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = tuareg
+        religion = protestant
+        size = 20
+    }
+
+    officers = {
+        culture = tuareg
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 925
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 18125
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = protestant
+        size = 3000
+    }
+}
+#Rosso (72000/18000 POPS)
+1776 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 900
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 11400
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 5000
+    }
+}
+#uncolonized in 1836/ruled by Emir of Brakna
+#Aleg (84000/21000 POPS)
+1777 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 390
+    }
+
+    bureaucrats = {
+        culture = gur
+        religion = protestant
+        size = 10
+    }
+
+    officers = {
+        culture = gur
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 850
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 220
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 13325
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 6000
+    }
+}
+#Maghama (28000/7000 POPS)
+1778 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 275
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 3475
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 3000
+    }
+}
+#Adrar-Hodh Region (52000)
+#uncolonized in 1836/ruled by Emirs of Adrar
+#Shingit (12000/3000 POPS)
+1779 = {
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = tuareg
+        religion = protestant
+        size = 3
+    }
+
+    officers = {
+        culture = tuareg
+        religion = protestant
+        size = 7
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 2700
+    }
+}
+
+#Walata (28000/7000 POPS)
+1781 = {
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 5400
+    }
+
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 3675
+    }
+}
+#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
+#uncolonized in 1836
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania
+1782 = {
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 2700
+    }
+
+}

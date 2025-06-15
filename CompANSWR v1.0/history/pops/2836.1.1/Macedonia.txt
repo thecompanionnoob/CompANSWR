@@ -1,0 +1,51 @@
+#Debar - Former Tichit
+1780 = {
+    clergymen = {
+        culture = albanian
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = albanian
+        religion = protestant
+        size = 4000
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = protestant
+        size = 4100
+    }
+
+    farmers = {
+        culture = albanian
+        religion = protestant
+        size = 52062
+    }
+
+    soldiers = {
+        culture = serb
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = serb
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = serb
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = serb
+        religion = protestant
+        size = 1100
+    }
+
+}

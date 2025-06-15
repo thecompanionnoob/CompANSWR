@@ -1,0 +1,89 @@
+political_decisions = {	
+	form_yugoslavia = { 
+		potential = {
+			tag = SER
+			NOT = { exists = YUG }
+			NOT = { has_global_flag = yugoslavia_formed }
+		}
+		allow = {         
+            war = no          
+            SER = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            DAK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            BAN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+        }
+        effect = {                
+            prestige = 25
+            change_tag = YUG    
+            SER = {
+				all_core = { add_core = YUG secede_province = THIS}
+			}
+            DAK = {
+				all_core = { add_core = YUG secede_province = THIS}
+			}
+            
+            BAN = {
+				all_core = { add_core = YUG secede_province = THIS}
+			}
+            
+            CRO = {
+				all_core = { add_core = YUG}
+			}
+            SLO = {
+				all_core = { add_core = YUG}
+			}
+            BUL = {
+				all_core = { add_core = YUG}
+			}
+            MON = {
+				all_core = { add_core = YUG}
+			}
+            SYC = {
+				all_core = { add_core = YUG}
+			}
+            add_accepted_culture = serb
+            add_accepted_culture = slovene
+            add_accepted_culture = iskhor
+            add_accepted_culture = nadati
+	    add_accepted_culture = westturkish
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+}

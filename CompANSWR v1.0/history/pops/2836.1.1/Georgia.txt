@@ -1,0 +1,669 @@
+#Gruzhia Region (644000)
+#under the rule of Russia in 1836
+#Tblisi (232000/58000 POPS) #circassian-orthodox = circassian
+1090 = {
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 250
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 1100
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    officers = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 475
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 725
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 1100
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 40625
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5000
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 450
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 2400
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 2750
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 690
+    }
+}
+#Pasanauri (76000/19000 POPS)
+1091 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 9100
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 500
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 2700
+    }
+}
+#Kutaisi (120000/30000 POPS)
+1092 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 550
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 27300
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+#Akhaltsikhle (40000/10000 POPS)
+1093 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 3625
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 4550
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 900
+    }
+}
+#Poti (104000/26000 POPS)
+1094 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 275
+    }
+
+    farmers = {
+        culture = greek
+        religion = protestant
+        size = 3500
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 20675
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 3000
+    }
+}
+#Sukhumi (72000/18000 POPS) #circassian = abkhaz
+1095 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 17600
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 450
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 28225
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 20550
+    }
+}
+#Rise-Artvin (Lazica aka Sunni Coastal West circassians)
+3342 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 275
+    }
+
+    farmers = {
+        culture = greek
+        religion = protestant
+        size = 3500
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 20675
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 3000
+    }
+}
+
+#Tskhinval
+3351 = {
+		 aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 2775
+    }
+	 aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5500
+    }
+}
+
+#Gori
+3352 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    serfs = {
+        culture = circassian
+        religion = protestant
+        size = 9100
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 500
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 2700
+    }
+}

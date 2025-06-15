@@ -1,0 +1,97 @@
+#Rio de Oro Region (20000) #see Mauritania.txt for balance of region
+#uncolonized in 1836
+#Al Aiyun (12000/3000 POPS)  aguia el-Hamra
+1773 = {
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 100
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 800
+    }
+}
+#Dahkla (8000/2000 POPS)
+1774 = {
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 300
+    }
+
+}

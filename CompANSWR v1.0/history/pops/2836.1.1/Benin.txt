@@ -1,0 +1,373 @@
+#Dahomey Region (512000)
+#under the rule of Dahomey in 1836
+#Cotonou (544000/136000 POPS)
+1919 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 1950
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 1100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 4100
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 59950
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 550
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 27350
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 26000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 3600
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 4000
+    }
+}
+#Abomey (480000/120000 POPS)
+1920 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 2100
+    }
+
+    bureaucrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = gur
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 1100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 4250
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 83250
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 7300
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 5400
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 2000
+    }
+}
+#Borgu Region (76000) #see Nigeria.txt for balance of region
+#ruled by Sokoto in 1836
+#Nikki (48000/12000 POPS)
+1921 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 2700
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 1100
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 375
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 7250
+    }
+}
+#Jugu (28000/7000 POPS)
+1922 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 4575
+    }
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 1800
+    }
+
+}

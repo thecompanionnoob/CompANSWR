@@ -1,0 +1,81 @@
+political_decisions = {
+        Danubioo  = {
+        picture = propose_danube_federation
+        potential = {
+            OR = {                
+                tag = HUN              
+            }            
+            has_global_flag = Hungria	
+        }
+
+        allow = {         
+            war = no           
+            HUN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            AUS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           SER = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+           
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = DNB
+           
+            HUN = {
+				all_core = { add_core = DNB secede_province = THIS }
+			}
+            AUS = {
+				all_core = { add_core = DNB secede_province = THIS }
+			}
+           SER = {
+				all_core = { add_core = DNB secede_province = THIS }
+			}  
+            add_accepted_culture = serb
+            add_accepted_culture = austro_german
+            add_accepted_culture = slovene
+            add_accepted_culture = romanian
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

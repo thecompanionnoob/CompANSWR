@@ -1,0 +1,11 @@
+owner = DON
+controller = DON
+add_core = DON
+add_core = CRU
+trade_goods = grain
+life_rating = 35
+colonial = 2
+2861.1.1 = {
+    owner = RUS
+    controller = RUS
+}

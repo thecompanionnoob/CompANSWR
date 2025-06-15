@@ -1,0 +1,11 @@
+owner = JIY
+controller = JIY
+add_core = JIY
+add_core = EZO
+trade_goods = coal
+life_rating = 35
+2861.1.1 = {
+    owner = RUS
+    controller = RUS
+    add_core = RUS
+}

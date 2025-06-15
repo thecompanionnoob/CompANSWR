@@ -1,0 +1,64 @@
+political_decisions = {
+        Czechoslovakia  = {
+        picture = Czechoslovakia
+        potential = {
+            OR = {                
+                tag = NIT
+                tag = BOH
+                                
+            }
+            NOT = { exists = CHZ }
+			
+        }
+
+        allow = {         
+            war = no  
+            NIT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+           BOH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+              
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = CZH
+            NIT = {
+				all_core = { add_core = CZH secede_province = THIS }
+			}
+            BOH = {
+				all_core = { add_core = CZH secede_province = THIS }
+			}      
+            add_accepted_culture = czech
+            add_accepted_culture = slovak
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

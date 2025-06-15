@@ -1,0 +1,327 @@
+#Bangwelu Region (308000)
+#uncolonized in 1836/ruled by Kazembe in 1836
+#Kitwe (88000/22000 POPS)
+790 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 950
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 18150
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 8050
+    }
+}
+#Kazembe (168000/42000 POPS)
+2016 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = lunda
+        religion = protestant
+        size = 30
+    }
+
+    officers = {
+        culture = lunda
+        religion = protestant
+        size = 120
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 450
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 2000
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 1350
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 31400
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 16465
+    }
+}
+#Kasema (136000/34000 POPS)
+2017 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 1600
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 23100
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 15700
+    }
+}
+#Chipata (112000/23000 POPS)
+2018 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 650
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 375
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 30525
+    }
+}
+#Kafue Region (228000) #see Namibia.txt for balance of region
+#uncolonized in 1836/ruled by Lozi in 1836
+#Kabwe (28000/7000 POPS)
+2012 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 3575
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 3000
+    }
+}
+#Senanga (52000/13000 POPS)
+2013 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = lunda
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = lunda
+        religion = protestant
+        size = 165
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 1025
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 5000
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 1250
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 13950
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 10500
+    }
+}
+#Kasempa (40000/10000 POPS)
+2014 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 925
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 6350
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 3500
+    }
+}
+#Monzo (108000/27000 POPS)
+2015 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 475
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 650
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 4100
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 25025
+    }
+
+    slaves = {
+        culture = lunda
+        religion = protestant
+        size = 13500
+    }
+
+}

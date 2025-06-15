@@ -1,0 +1,34 @@
+#Central Melanesia (54000)
+#uncolonized in 1836
+#Solomon Islands (48000/12000 POPS)
+2534 = {
+    aristocrats = {
+        culture = melanesian
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = melanesian
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = melanesian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = melanesian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = melanesian
+        religion = protestant
+        size = 10925
+    }
+}

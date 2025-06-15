@@ -1,0 +1,693 @@
+#Slovakia Region (1588000)
+#under the rule of Austria in 1836
+#Bratislava (691060/172765 POPS)
+633 = {
+
+    craftsmen = {
+        culture = slovak
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 1100
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 6200
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 19150
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 92500
+    }
+
+    aristocrats = {
+        culture = austro_german
+        religion = protestant
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = protestant
+        size = 275
+    }
+
+    officers = {
+        culture = austro_german
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = protestant
+        size = 1000
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = protestant
+        size = 3000
+    }
+}
+#Trencin (342540/85635 POPS)
+634 = {
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 1800
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 500
+    }
+
+    craftsmen = {
+        culture = slovak
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 13300
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 39000
+    }
+
+    aristocrats = {
+        culture = austro_german
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = protestant
+        size = 6350
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+}
+#Nitra (3279752/819938 POPS)
+635 = {
+
+    bureaucrats = {
+        culture = slovak
+        religion = protestant
+        size = 1500
+    }
+
+    capitalists = {
+        culture = slovak
+        religion = protestant
+        size = 50
+    }
+
+    officers = {
+        culture = slovak
+        religion = protestant
+        size = 175
+    }
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 1850
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 8300
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 3500
+    }
+
+    craftsmen = {
+        culture = slovak
+        religion = protestant
+        size = 7000
+    }
+
+    clerks = {
+        culture = slovak
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 9000
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 60300
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 102000
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = protestant
+        size = 2650
+    }
+}
+#Banska Bystrica (340000/85000 POPS)
+636 = {
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 475
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 2550
+    }
+
+    craftsmen = {
+        culture = slovak
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 30125
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 68000
+    }
+
+    bureaucrats = {
+        culture = austro_german
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = austro_german
+        religion = protestant
+        size = 35
+    }
+
+    craftsmen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = protestant
+        size = 1900
+    }
+
+    clergymen = {
+        culture = polish
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = polish
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = polish
+        religion = protestant
+        size = 100
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 4800
+    }
+}
+#Felvidek Region (860000) #see Hungary.txt and Ukraine.txt for balance of Region
+#under the rule of Austria in 1836
+#Kosice (497628/124407POPS)
+637 = {
+    bureaucrats = {
+        culture = slovak
+        religion = protestant
+        size = 575
+    }
+
+    officers = {
+        culture = slovak
+        religion = protestant
+        size = 575
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 1975
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 3800
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 1100
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 32000
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 29875
+    }
+
+    officers = {
+        culture = hungarian
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 237
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 300
+    }
+
+    craftsmen = {
+        culture = hungarian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 9066
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = austro_german
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = protestant
+        size = 8825
+    }
+
+    serfs = {
+        culture = ukrainian
+        religion = protestant
+        size = 4450
+    }
+}
+#Roznava (160400/40100 POPS)
+638 = {
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 2100
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 200
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 14625
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 11800
+    }
+
+    clergymen = {
+        culture = ukrainian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = ukrainian
+        religion = protestant
+        size = 100
+    }
+
+    serfs = {
+        culture = ukrainian
+        religion = protestant
+        size = 2000
+    }
+}
+#Novy Sacz (596000/149000 POPS)
+704 = {
+    aristocrats = {
+        culture = slovak
+        religion = protestant
+        size = 3450
+    }
+
+    bureaucrats = {
+        culture = slovak
+        religion = protestant
+        size = 275
+    }
+
+    officers = {
+        culture = slovak
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 2175
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 2100
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 3200
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 94725
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 31200
+    }
+
+    artisans = {
+        culture = polish
+        religion = protestant
+        size = 5750
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 5000
+    }
+
+    serfs = {
+        culture = polish
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = ukrainian
+        religion = protestant
+        size = 450
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = protestant
+        size = 18200
+    }
+
+    clergymen = {
+        culture = austro_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = austro_german
+        religion = protestant
+        size = 1825
+    }
+}
+#Tarnow (616000/154000 POPS)
+714 = {
+    aristocrats = {
+        culture = slovak
+        religion = protestant
+        size = 3500
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 1425
+    }
+
+    artisans = {
+        culture = polish
+        religion = protestant
+        size = 7250
+    }
+
+    soldiers = {
+        culture = polish
+        religion = protestant
+        size = 1450
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 20000
+    }
+
+    serfs = {
+        culture = polish
+        religion = protestant
+        size = 50000
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = slovak
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = slovak
+        religion = protestant
+        size = 30920
+    }
+
+    serfs = {
+        culture = slovak
+        religion = protestant
+        size = 40000
+    }
+}

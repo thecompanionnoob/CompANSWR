@@ -1,0 +1,186 @@
+#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region
+#under the rule of Khiva in 1836
+#Turkmenia Region (368000)
+#under the rule of Khiva in 1836
+#Ashkabad (148000/32000 POPS)
+1204 = {
+    aristocrats = {
+        culture = turkmen
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = turkmen
+        religion = protestant
+        size = 275
+    }
+
+    artisans = {
+        culture = turkmen
+        religion = protestant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = turkmen
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = turkmen
+        religion = protestant
+        size = 25675
+    }
+
+    clergymen = {
+        culture = persian
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = persian
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = persian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = persian
+        religion = protestant
+        size = 3750
+    }
+}
+#under the rule of Bukhara in 1836
+#Chardzhou (132000/33000 POPS)
+1206 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 1825
+    }
+
+    aristocrats = {
+        culture = turkmen
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = turkmen
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = turkmen
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = turkmen
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = turkmen
+        religion = protestant
+        size = 21025
+    }
+}
+
+#Merv - Former Line Islands (?/? POPS)
+686 = {
+    aristocrats = {
+        culture = turkmen
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = turkmen
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = turkmen
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = turkmen
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = turkmen
+        religion = protestant
+        size = 5000
+    }
+
+    aristocrats = {
+        culture = persian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = persian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = persian
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = persian
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = persian
+        religion = protestant
+        size = 2425
+    }
+}

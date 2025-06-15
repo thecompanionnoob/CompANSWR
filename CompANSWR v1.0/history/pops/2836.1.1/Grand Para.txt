@@ -1,0 +1,754 @@
+####Provinces owned by Grand Para in 2836####
+#Maranhao Region (412000)
+#Sao Luis (160000/40000 POPS)
+2424 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1025
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = protestant
+        size = 225
+    }
+
+    officers = {
+        culture = nossogene
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 475
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 13700
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 8050
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 74395
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 5000
+    }
+}
+#Teresina (160000/40000 POPS)
+2426 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 425
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 875
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 15000
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 5000
+    }
+}
+#Fortaleza (180000/45000 POPS)
+2429 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 925
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = protestant
+        size = 150
+    }
+
+    officers = {
+        culture = nossogene
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 1300
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 4150
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 25250
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 2000
+    }
+}
+#Ribe (148000/37000 POPS)
+368 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1925
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = protestant
+        size = 550
+    }
+
+    officers = {
+        culture = nossogene
+        religion = protestant
+        size = 325
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 2800
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 7650
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 3500
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 43170
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 4000
+    }
+
+}
+##Nordeste##
+#Paraiba (92000/23000 POPS)
+2428 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1475
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 1200
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 6725
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 19525
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 5000
+    }
+}
+#Crato (52000/13000 POPS)
+2430 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1275
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 1325
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 12225
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 2000
+    }
+}
+#Natal (132000/33000 POPS)
+2431 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1675
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 6750
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 23025
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 4000
+    }
+}
+#Cabreibo (80000/20000 POPS)
+2433 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 725
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 3250
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 750
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 14025
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 6000
+    }
+}
+#Antigua (25000/6250 POPS) #now independent
+2224 = {
+    aristocrats = {
+        culture = muisca
+        religion = protestant
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = muisca
+        religion = protestant
+        size = 40
+    }
+
+    artisans = {
+        culture = muisca
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = muisca
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = muisca
+        religion = protestant
+        size = 3080
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = protestant
+        size = 1080
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = protestant
+        size = 5950
+    }
+}
+##Callifal##
+#Porlamar (16000/4000 POPS)
+2357 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1500
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 1500
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 5000
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 17100
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 9815
+    }
+}
+#Barbados (100000/25000 POPS) #now independent
+2229 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1150
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 2500
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 6325
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 2200
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 23175
+    }
+
+    slaves = {
+        culture = amazonian
+        religion = protestant
+        size = 19200
+    }
+}
+##Grao-Para##
+#Dominica (19000/4750 POPS) #now independent
+2232 = {
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 2500
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 19200
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 11400
+    }
+}
+#Saint Lucia (18000/4500 POPS) #now independent
+2231 = {
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 2500
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 550
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 11200
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 11200
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 18400
+    }
+}
+#Oriximina (8000/2000 POPS)
+2408 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 75
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 1650
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 1520
+    }
+}
+#Turks & Caicos Islands (3000/750 POPS) #still a British colony
+2220 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 1500
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 1750
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = muisca
+        religion = protestant
+        size = 18535
+    }
+
+    slaves = {
+        culture = muisca
+        religion = protestant
+        size = 4900
+    }
+}
+#Curacao (12300/3100 POPS)
+2234 = {
+
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = nossogene
+        religion = protestant
+        size = 60
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 1250
+    }
+
+    artisans = {
+        culture = nossogene
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = nossogene
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = muisca
+        religion = protestant
+        size = 15535
+    }
+
+    slaves = {
+        culture = muisca
+        religion = protestant
+        size = 10900
+    }
+}
+##Rallego##
+#Tobago (15000/3750 POPS)
+2238 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 250
+    }
+
+    slaves = {
+        culture = nossogene
+        religion = protestant
+        size = 6000
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 4240
+    }
+}
+#Cachoeira (8000/2000 POPS)
+2403 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 250
+    }
+
+    slaves = {
+        culture = muisca
+        religion = protestant
+        size = 2550
+    }
+
+    farmers = {
+        culture = muisca
+        religion = protestant
+        size = 1220
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 2020
+    }
+}
+#Sao Tome (16000/4000 POPS)
+1954 = {
+    aristocrats = {
+        culture = nossogene
+        religion = protestant
+        size = 400
+    }
+
+    soldiers = {
+        culture = nossogene
+        religion = protestant
+        size = 400
+    }
+
+    slaves = {
+        culture = muisca
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = muisca
+        religion = protestant
+        size = 1510
+    }
+
+    farmers = {
+        culture = nossogene
+        religion = protestant
+        size = 5015
+    }
+}

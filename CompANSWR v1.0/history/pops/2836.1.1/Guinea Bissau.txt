@@ -1,0 +1,165 @@
+#Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
+#Uncolonized in 1836/Portuguese trade post
+#Bissau (32000/8000 POPS)
+1877 = {
+    aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 375
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 5300
+    }
+
+    slaves = {
+        culture = tuareg
+        religion = protestant
+        size = 2000
+    }
+
+        aristocrats = {
+        culture = tuareg
+        religion = protestant
+        size = 300
+    }
+
+    officers = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = protestant
+        size = 3000
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = protestant
+        size = 12048
+    }
+}
+#under the rule of Gabu in 1836
+#Gabu (152000/38000 POPS)
+1878 = {
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 3768
+    }
+
+
+    aristocrats = {
+        culture = gur
+        religion = protestant
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = gur
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = gur
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = gur
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = gur
+        religion = protestant
+        size = 11129
+    }
+
+    slaves = {
+        culture = gur
+        religion = protestant
+        size = 2000
+    }
+
+}

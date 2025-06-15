@@ -1,0 +1,389 @@
+#Provinces that start under rule of the Flaming Dragon Triad
+#Puer (914094/228523 POPS)
+1603 = {
+
+    aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 6275
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 3175
+    }
+
+    artisans = {
+        culture = cantan
+        religion = protestant
+        size = 15850
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 10000
+    }
+
+	farmers = {
+		culture = cantan
+		religion = protestant
+		size = 14000
+	}
+
+	slaves = {
+        culture = yue
+        religion = protestant
+        size = 100525
+    }
+	
+	slaves = {
+        culture = hani
+        religion = protestant
+        size = 76000
+    }
+}
+#Kengtung (42908/30727 POPS)
+3365 = {
+	aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 100
+    }
+
+	bureaucrats = {
+		culture = cantan
+		religion = protestant
+		size = 100
+	}
+		
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 550
+    }
+
+    farmers = {
+        culture = cantan
+        religion = protestant
+        size = 3500
+    }
+
+    slaves = {
+        culture = yue
+        religion = protestant
+        size = 14000
+    }
+	
+	slaves = {
+        culture = shan
+        religion = protestant
+        size = 7500
+    }
+	
+	slaves = {
+        culture = hani
+        religion = protestant
+        size = 5000
+    }
+}
+
+#Bokeo-Luangnamtha (100640/25160 POPS)
+3366 = {
+	aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 100
+    }
+
+	bureaucrats = {
+		culture = cantan
+		religion = protestant
+		size = 1000
+	}
+		
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 1550
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 1200
+    }
+
+	farmers = {
+        culture = cantan
+        religion = protestant
+        size = 4000
+    }
+
+    slaves = {
+        culture = yue
+        religion = protestant
+        size = 17500
+    }
+}
+
+#Oudomxay-Phongsaly (134642/33660 POPS)
+3370 = {
+	aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 100
+    }
+
+	bureaucrats = {
+		culture = cantan
+		religion = protestant
+		size = 1000
+	}
+		
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 550
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 1000
+    }
+
+    slaves = {
+        culture = yue
+        religion = protestant
+        size = 17500
+    }
+	
+	slaves = {
+        culture = lao
+        religion = protestant
+        size = 13000
+    }
+}
+
+#Chiang Rai (442668/110667 POPS)
+3371 = {	
+	aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 1000
+    }
+
+	bureaucrats = {
+		culture = cantan
+		religion = protestant
+		size = 1000
+	}
+		
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 1550
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 4000
+    }
+
+	farmers = {
+		culture = cantan
+		religion = protestant
+		size = 30000
+	}
+
+    slaves = {
+        culture = yue
+        religion = protestant
+        size = 47500
+    }
+	
+	slaves = {
+        culture = thai
+        religion = protestant
+        size = 23000
+    }
+}
+
+#Shan Region (680000)
+#Under Burma rule 1836
+#Taunggye (816000/204000 POPS)
+1338 = {
+    aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = cantan
+        religion = protestant
+        size = 225
+    }
+
+    officers = {
+        culture = cantan
+        religion = protestant
+        size = 175
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 850
+    }
+
+    artisans = {
+        culture = cantan
+        religion = protestant
+        size = 4250
+    }
+
+    slaves = {
+        culture = shan
+        religion = protestant
+        size = 45250
+    }
+
+	slaves = {
+        culture = yue
+        religion = protestant
+        size = 30000
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 150
+    }
+
+    bureaucrats = {
+        culture = cantan
+        religion = protestant
+        size = 100
+    }
+
+    officers = {
+        culture = cantan
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = cantan
+        religion = protestant
+        size = 3100
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 8725
+    }
+
+    slaves = {
+        culture = burmese
+        religion = protestant
+        size = 58300
+    }
+
+	farmers = {
+        culture = cantan
+        religion = protestant
+        size = 50000
+    }
+
+    slaves = {
+        culture = thai
+        religion = protestant
+        size = 15000
+    }
+}
+#Lashio (400000/100000 POPS)
+1340 = {
+    aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = cantan
+        religion = protestant
+        size = 2500
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 3500
+    }
+
+    aristocrats = {
+        culture = cantan
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = cantan
+        religion = protestant
+        size = 175
+    }
+
+    artisans = {
+        culture = cantan
+        religion = protestant
+        size = 900
+    }
+
+    soldiers = {
+        culture = cantan
+        religion = protestant
+        size = 250
+    }
+
+	slaves = {
+        culture = shan
+        religion = protestant
+        size = 38000
+    }
+
+    slaves = {
+        culture = kachin
+        religion = protestant
+        size = 10100
+    }
+
+    slaves = {
+        culture = burmese
+        religion = protestant
+        size = 26475
+    }
+	
+	slaves = {
+        culture = yue
+        religion = protestant
+        size = 20000
+    }
+
+}

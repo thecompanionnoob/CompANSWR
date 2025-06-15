@@ -1,0 +1,525 @@
+#Khwarazm Region (380000) #see Kazakhstan.txt and Turkmenistan.txt for balance of region
+#under the rule of Khiva in 1836
+#Khiva (200000/50000 POPS) #now part of Uzbekistan
+1191 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 950
+    }
+
+    bureaucrats = {
+        culture = uzbek
+        religion = protestant
+        size = 125
+    }
+
+    officers = {
+        culture = uzbek
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 450
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 2300
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 38050
+    }
+
+    slaves = {
+        culture = persian
+        religion = protestant
+        size = 7000
+    }
+
+    slaves = {
+        culture = russian
+        religion = protestant
+        size = 3000
+    }
+}
+#Mawarannahr Region (524000) #see Kazakhstan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region
+#under the rule of Kokand in 1836
+#Tashkent (224000/56000 POPS)
+1195 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 900
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 450
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 2300
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 38850
+    }
+
+    aristocrats = {
+        culture = kirgiz
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = kirgiz
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = kirgiz
+        religion = protestant
+        size = 125
+    }
+
+    soldiers = {
+        culture = kirgiz
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = kirgiz
+        religion = protestant
+        size = 2775
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 325
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 6450
+    }
+
+    slaves = {
+        culture = uzbek
+        religion = protestant
+        size = 2000
+    }
+}
+
+#under the rule of Bukhara in 1836
+#Bukhara (868000/217000 POPS)
+1198 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 3750
+    }
+
+    bureaucrats = {
+        culture = uzbek
+        religion = protestant
+        size = 525
+    }
+
+    officers = {
+        culture = uzbek
+        religion = protestant
+        size = 475
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 2000
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 4300
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 16000
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 142950
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 275
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 10775
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 25
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 3375
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = protestant
+        size = 1950
+    }
+
+    slaves = {
+        culture = bedouin
+        religion = protestant
+        size = 8000
+    }
+
+    slaves = {
+        culture = tajik
+        religion = protestant
+        size = 30000
+    }
+}
+#Samarkand (544000/136000 POPS)
+1199 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 2250
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 1250
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 4700
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 7000
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 100800
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 5600
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = protestant
+        size = 2325
+    }
+
+    slaves = {
+        culture = tajik
+        religion = protestant
+        size = 20000
+    }
+}
+#Qarshi (280000/70000 POPS)
+1200 = {
+    aristocrats = {
+        culture = uzbek
+        religion = protestant
+        size = 1100
+    }
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 2550
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 525
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 46425
+    }
+
+    aristocrats = {
+        culture = tajik
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = tajik
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = tajik
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = tajik
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = tajik
+        religion = protestant
+        size = 11075
+    }
+
+    aristocrats = {
+        culture = turkmen
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = turkmen
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = turkmen
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = turkmen
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = turkmen
+        religion = protestant
+        size = 6425
+    }
+
+    slaves = {
+        culture = uighur
+        religion = protestant
+        size = 8000
+    }
+
+}
+
+#Kyzyl Kum - Former Medicine Hat (8000/2000 POPS)
+29 = {
+
+    clergymen = {
+        culture = uzbek
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = uzbek
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = uzbek
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = uzbek
+        religion = protestant
+        size = 5000
+    }
+}

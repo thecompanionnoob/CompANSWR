@@ -1,0 +1,963 @@
+#New Azerbaijan Provinces from Malaysia
+#Malacca (52800/13200 POPS)
+1386 = {
+	 bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 10985
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 740
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+
+#Kuala Lumpur (68000/17000 POPS)
+1387 = {
+ bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 10985
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 740
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+
+#Alor Setar (116000/29000 POPS)
+1389 = {
+ bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 10985
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 740
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+
+#Tanjungpinang (100000/25000 POPS)
+1402 = {
+ bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 10985
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 740
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+#Marsabit (52000/13000 POPS
+2025 = {
+	 bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 10985
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 740
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+#Jibuti (28000/7000 POPS) #now part of Djibouti
+1875 = {
+	bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 15
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 5350
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 175
+    }
+
+    bureaucrats = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 110
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 10985
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 740
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 245
+    }
+}
+
+#Telavi (24000/6000 POPS)
+3353 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 30
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 45
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 1800
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 20
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 900
+    }
+
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 2600
+    }
+}
+#Sumayquit (56000/14000 POPS)
+3356 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 12800
+    }
+
+}
+#Azeri Shirvan (56000/14000 POPS)
+3357 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 12800
+    }
+
+}
+
+#Quobustan (56000/14000 POPS)
+3358 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 12800
+    }
+
+}
+
+#Masalli (56000/14000 POPS)
+3359 = {
+    aristocrats = {
+        culture = circassian
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = circassian
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = circassian
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = circassian
+        religion = protestant
+        size = 150
+    }
+
+    farmers = {
+        culture = circassian
+        religion = protestant
+        size = 12800
+    }
+
+}

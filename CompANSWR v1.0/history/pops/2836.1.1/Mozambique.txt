@@ -1,0 +1,766 @@
+#Gaza Region (872000)
+#uncolonized in 1836
+#Maputo (244000/61000)
+2049 = {
+    aristocrats = {
+        culture = tsakiya
+        religion = protestant
+        size = 2400
+    }
+
+    clergymen = {
+        culture = tsakiya
+        religion = protestant
+        size = 350
+    }
+
+    artisans = {
+        culture = tsakiya
+        religion = protestant
+        size = 1600
+    }
+
+    soldiers = {
+        culture = tsakiya
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = tsakiya
+        religion = protestant
+        size = 42250
+    }
+
+    slaves = {
+        culture = tsakiya
+        religion = protestant
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = tsakiya
+        religion = protestant
+        size = 1250
+    }
+
+    clergymen = {
+        culture = tsakiya
+        religion = protestant
+        size = 225
+    }
+
+    artisans = {
+        culture = tsakiya
+        religion = protestant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = tsakiya
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = tsakiya
+        religion = protestant
+        size = 21525
+    }
+
+    slaves = {
+        culture = tsakiya
+        religion = protestant
+        size = 3000
+    }
+}
+#Chaimate (280000/70000 POPS)
+2050 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 700
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 650
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 3600
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1400
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 46250
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 21000
+    }
+}
+#Inhambane (176000/44000 POPS)
+2051 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 425
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 2300
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1050
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 52975
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 20000
+    }
+}
+#Massekisse (172000/43000 POPS)
+2052 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 1800
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 39375
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 22700
+    }
+
+}
+#Zambezia Region (912000)
+#Ruled (loosely) by Portugal in 1836)
+#Sena (176000/43000 POPS)
+2053 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 650
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 2400
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1050
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 52850
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 30000
+    }
+}
+#Quelimane (84000/21000 POPS)
+2059 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 325
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 1950
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1050
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 11925
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 8000
+    }
+
+}
+#Uncolonized in 1836
+#Tete (104000/26000 POPS)
+2054 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 525
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 3500
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 27125
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 7000
+    }
+
+}
+#Songo (164000/41000 POPS)
+2055 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 2000
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 450
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 50700
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 2000
+    }
+}
+#Zombo (104000/26000 POPS)
+2056 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 650
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 1025
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 6050
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 85925
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 30000
+    }
+}
+#Sofala (144000/36000 POPS)
+2057 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 4000
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 170800
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 25000
+    }
+}
+#Mossurize (136000/34000 POPS)
+2058 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 3350
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 350
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 50275
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 3000
+    }
+
+}
+#Mocambique Region (964000)
+#Ruled by Portugal 1836
+#Mocambique (88000/22000 POPS)
+2060 = {
+    aristocrats = {
+        culture = english
+        religion = protestant
+        size = 275
+    }
+
+    clergymen = {
+        culture = english
+        religion = protestant
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = english
+        religion = protestant
+        size = 25
+    }
+
+    artisans = {
+        culture = english
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = english
+        religion = protestant
+        size = 50
+    }
+
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 1050
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 13300
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 6000
+    }
+}
+#uncolonized in 1836
+#Angoche (128000/32000 POPS)
+2061 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 700
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 32900
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 150
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 750
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 12750
+    }
+}
+#Ibo (208000/52000 POPS)
+2063 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 2500
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 50000
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 2000
+    }
+}
+#Nampula (208000/52000 POPS)
+2064 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 900
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 40500
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 1000
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 3000
+    }
+}
+#Milange (108000/27000 POPS)
+2065 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 19450
+    }
+
+    slaves = {
+        culture = shona
+        religion = protestant
+        size = 3600
+    }
+}
+#Mataka (224000/56000 POPS)
+2581 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 400
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 2100
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 450
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 35600
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 2000
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 15000
+    }
+}

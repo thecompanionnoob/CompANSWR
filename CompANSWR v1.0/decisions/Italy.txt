@@ -1,0 +1,667 @@
+political_decisions = {
+	cavours_diplomacy = {
+		potential = {
+			OR = {
+				AND = { 
+					tag = ITA
+					NOT = { exists = SAR }
+				}
+				AND = { 
+					tag = SAR
+					NOT = { exists = ITA }
+				}
+			}
+			NOT = {
+				has_country_flag = cavour_has_done_his
+			}
+			owns = 465
+			owns = 466
+			owns = 472
+			FRA = {
+				exists = yes
+				is_greater_power = yes
+			}
+		}
+		allow = {
+			relation = {
+				who = FRA
+				value = 150
+			}
+			owns = 726
+			owns = 727
+			owns = 728
+		}
+		
+		effect = {
+			prestige = 20
+			badboy = -10
+			relation = {
+				who = FRA
+				value = 50
+			}
+			726 = {
+				add_core = SAR
+			}
+			727 = {
+				add_core = SAR
+			}
+			728 = {
+				add_core = SAR
+			}
+			465 = {
+				remove_core = ITA
+				remove_core = SAR
+				add_core = FRA
+				secede_province = FRA
+			}
+			466 = {
+				remove_core = ITA
+				remove_core = SAR
+				add_core = FRA
+				secede_province = FRA
+			}
+			472 = {
+				remove_core = ITA
+				remove_core = SAR
+				add_core = FRA
+				secede_province = FRA
+			}
+			set_country_flag = cavour_has_done_his
+		}
+	}
+	award_order_of_st_francis = {
+		potential = {
+			tag = SIC
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = order_awarded
+			}
+		}
+		
+		allow = {
+			prestige = 25
+		}
+		
+		effect = {
+			years_of_research = 0.02
+			prestige = 2
+			set_country_flag = order_awarded
+		}
+	}
+	statuto_albertino = {
+		potential = {
+			tag = SAR
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = get_your_statuto_albertino_here
+			}
+		}
+		allow = {
+			average_militancy = 3
+		}
+		effect = {
+			any_pop = {
+				militancy = -2
+			}
+			prestige = 5
+			set_country_flag = get_your_statuto_albertino_here
+		}
+	}
+	build_vittoriano = {
+		potential = {
+			tag = ITA
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = vittoriano_built
+			}
+		}
+		
+		allow = {
+			realism = 1
+		}
+		
+		effect = {
+			prestige = 5
+			any_pop = {
+				militancy = -1
+			}
+			set_country_flag = vittoriano_built
+		}
+	}
+	the_case_of_edgardo_mortara = {
+		potential = {
+			tag = PAP
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = edgardo_mortara
+			}
+			year = 1858
+			owns = 741
+		}
+		allow = {
+			idealism = 1
+		}
+		effect = {
+			prestige = 15
+			badboy = 1
+			any_greater_power = {
+				relation = {
+					value = -20
+					who = THIS
+				}
+			}
+			set_country_flag = edgardo_mortara
+		}
+	}
+	the_first_vatican_council = {
+		potential = {
+			tag = PAP
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = first_vatican_council_held
+			}
+		}
+		allow = {
+			empiricism = 1
+		}
+		effect = {
+			prestige = 10
+			badboy = 1
+			any_country = {
+				limit = {
+					religion = catholic
+				}
+				relation = {
+					who = THIS
+					value = 10
+				}
+			}
+			set_country_flag = first_vatican_council_held
+		}
+	}
+	law_of_guarantees = {
+		potential = {
+			tag = ITA
+			NOT = {
+				capital = 749
+			}
+		}
+		
+		allow = {
+			owns = 749
+		}
+		
+		effect = {
+			capital = 749
+			prestige = 5
+			badboy = -2
+		}
+	}
+	italia_irredenta = {
+		potential = {
+			tag = ITA
+			NOT = {
+				has_country_flag = italia_ulterior
+			}
+		}
+		
+		allow = {
+			OR = {
+				invention = national_fraternity
+				is_greater_power = yes
+			}
+		}
+		effect = {
+			set_country_flag = italia_ulterior
+			729 = {
+				add_core = ITA
+			}
+			730 = {
+				add_core = ITA
+			}
+			731 = {
+				add_core = ITA
+			}
+			732 = {
+				add_core = ITA
+			}
+			733 = {
+				add_core = ITA
+			}
+			734 = {
+				add_core = ITA
+			}
+			735 = {
+				add_core = ITA
+			}
+			736 = {
+				add_core = ITA
+			}
+			737 = {
+				add_core = ITA
+			}
+			769 = {
+				add_core = ITA
+			}
+			770 = {
+				add_core = ITA
+			}
+			778 = {
+				add_core = ITA
+			}
+			780 = {
+				add_core = ITA
+			}
+			781 = {
+				add_core = ITA
+			}
+			782 = {
+				add_core = ITA
+			}
+			773 = {
+				add_core = ITA
+			}
+			727 = {
+				add_core = ITA
+			}
+			2669 = {
+				add_core = ITA
+			}
+			611 = {
+				add_core = ITA
+			}
+			2582 = {
+				add_core = ITA
+			}
+			PRV = {
+				all_core = { add_core = ITA }
+			}
+			SVY = {
+				all_core = { add_core = ITA }
+			}
+		}
+	}
+	Italia_N  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+				tag = PAR
+            }
+            NOT = { exists = ITN }	
+        }
+        allow = {         
+            war = no           
+            TUS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            PAR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }     
+        }
+        effect = {                
+            prestige = 10
+            change_tag = ITN      
+            TUS = {
+				all_core = { add_core = ITN secede_province = THIS}
+			}
+            PAR = {
+				all_core = { add_core = ITN secede_province = THIS}
+			}      
+            set_global_flag = italia_5
+        }
+		ai_will_do = { factor = 1 }
+    }
+    form_italy = {
+        news = yes
+        news_desc_long = "form_italy_NEWS_LONG"
+        news_desc_medium = "form_italy_NEWS_MEDIUM"
+        news_desc_short = "form_italy_NEWS_SHORT"
+        potential = {
+            is_culture_group = italian
+            capital_scope = { continent = europe }
+            NOT = {
+                has_country_flag = post_colonial_country
+                exists = ITA
+            }
+			NOT={has_global_flag = Roma_event}
+			NOT={has_global_flag = Papal_event}
+        }
+
+        allow = {            
+            war = no
+            
+	    SIC = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            APU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+             TUS = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+            PAR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }     
+
+        effect = {
+            prestige = 20
+            all_core = { remove_core = THIS }
+            change_tag = ITA
+            capital = 749
+            add_accepted_culture = north_italian
+            add_accepted_culture = south_italian
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
+            random_owned = { limit = { owner = { accepted_culture = south_german } } owner = { remove_accepted_culture = south_german } }
+            random_owned = { limit = { owner = { accepted_culture = parish } } owner = { remove_accepted_culture = parish } }
+            any_owned = { limit = { is_core = SYC } remove_core = SYC }
+            any_owned = { limit = { is_core = SRD } remove_core = SRD }
+            any_owned = { limit = { is_core = RMG } remove_core = RMG }
+            SIC = {
+				all_core = { add_core = ITA }
+			}
+            APU = {
+				all_core = { add_core = ITA }
+			}
+            TUS = {
+				all_core = { add_core = ITA }
+			}
+            PAR = {
+				all_core = { add_core = ITA }
+			}
+            inherit = SIC
+            inherit = APU
+            inherit = TUS
+            inherit = PAR
+			SIC = {
+				all_core = { remove_core = ITN }
+			}
+			SIC = {
+				all_core = { remove_core = SIS }
+			}
+			PAR = {
+				all_core = { remove_core = SIS }
+			}
+			TUS = {
+				all_core = { remove_core = SIS }
+			}
+			APU = {
+				all_core = { remove_core = ITN }
+			}
+			724 = { add_core = ITA }
+			725 = { add_core = ITA }
+			723 = { add_core = ITA }
+			720 = { add_core = ITA }	
+            
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	Italia_N_1  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+            }
+            NOT={has_global_flag = italia_1}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+        allow = {         
+            war = no                     	
+        }
+        effect = {                   		
+            set_global_flag = italia_1
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_2  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+            }
+			has_global_flag = italia_1
+            NOT={has_global_flag = italia_2}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+        allow = {         
+            war = no                     		
+        }
+        effect = {                   		
+            set_global_flag = italia_2
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_3  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+            }
+			has_global_flag = italia_2
+            NOT={has_global_flag = italia_3}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+        allow = {         
+            war = no                     	
+        }
+        effect = {                    		
+            set_global_flag = italia_3
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_4  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+            }
+			has_global_flag = italia_3
+            NOT={has_global_flag = italia_4}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+        allow = {         
+            war = no
+        }
+        effect = {                    		
+            set_global_flag = italia_4
+			add_country_modifier = {
+                        name = north_italia
+                        duration = 200
+                }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_5  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = TUS
+            }
+			has_global_flag = italia_4
+            NOT={has_global_flag = italia_5}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+        allow = {         
+            war = no                     	
+            exists = PAR	
+        }
+        effect = {                    		
+            set_global_flag = italia_5
+			change_tag = ITN   
+            PAR = {
+				all_core = { add_core = ITN }
+			}			
+			PAR = {
+                country_event = { id = 851082 days = 2 }
+            }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_6  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {
+                tag = ITN
+            }
+			has_global_flag = italia_5
+            NOT={has_global_flag = italia_6}
+			NOT = {				
+				has_country_modifier = north_italia
+			}
+        }
+        allow = {         
+            war = no
+        }
+        effect = {                    		
+            set_global_flag = italia_6
+			724 = { add_core = ITN }
+			725 = { add_core = ITN }
+			723 = { add_core = ITN }
+			720 = { add_core = ITN }
+			SWI = {
+                country_event = { id = 851081 days = 2 }
+            }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_7  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = ITN
+            }
+			has_global_flag = italia_6
+            NOT={has_global_flag = italia_7}
+        }
+        allow = {         
+            war = no                     	
+	        ITN = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	        }
+        }
+        effect = {                    		
+            set_global_flag = italia_7
+			752 = { add_core = ITN }
+			751 = { add_core = ITN }
+			750 = { add_core = ITN }
+			749 = { add_core = ITN }
+			766 = { add_core = ITN }
+        }
+		ai_will_do = { factor = 1 }
+    }
+	Italia_N_8  = {
+        picture = form_ita_nit
+        potential = {
+            OR = {                
+                tag = ITN
+            }
+			has_global_flag = italia_7
+            NOT={has_global_flag = italia_8}
+        }
+        allow = {         
+            war = no                     	
+	        ITN = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	        }
+        }
+        effect = {                    		
+            set_global_flag = italia_8
+			SIC = {
+				all_core = { add_core = ITN }
+			}
+			APU = {
+				all_core = { add_core = ITN }
+			}
+        }
+		ai_will_do = { factor = 1 }
+    }
+}

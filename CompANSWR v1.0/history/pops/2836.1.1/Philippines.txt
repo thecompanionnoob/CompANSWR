@@ -1,0 +1,670 @@
+#Luzon Region (2176000)
+#Ruled by Spain in 1836
+#Manila (780000/195000 POPS)
+1455 = {
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 1050
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 7000
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 1250
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = protestant
+        size = 450
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 9000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 116550
+    }
+
+    slaves = {
+        culture = filipino
+        religion = protestant
+        size = 20000
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 800
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 117725
+    }
+}
+#Vigan (133622 POPS)
+1456 = {
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 1100
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 625
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 7350
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 1500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 114525
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 6650
+    }
+}
+#Legazpi (380135 POPS)
+1457 = {
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 1100
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 625
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 65000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 11350
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 322525
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 10450
+    }
+}
+#Mindoro (224000/88029 POPS)
+1458 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 1450
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 4500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 58875
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 325
+    }
+
+    artisans = {
+        culture = pacifica
+        religion = protestant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 21025
+    }
+
+}
+#Visayas Region (1044000 POPS)
+#under rule of Spain 1836
+#Palawan (58725 POPS)
+1459 = {
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 2000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 27000
+    }
+
+    aristocrats = {
+        culture = pacifica
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 500
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 3000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 750
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 15500
+    }
+
+    clergymen = {
+        culture = pacifica
+        religion = protestant
+        size = 750
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 4500
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 9375
+    }
+}
+#Iloilo (283933 POPS)
+1460 = {
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 650
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 3500
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 3500
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 7500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 264750
+    }
+}
+#Tacloban (119346 POPS)
+1461 = {
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 625
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 4250
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 4500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 110125
+    }
+}
+#Cebu (207837 POPS)
+2565 = {
+    bureaucrats = {
+        culture = filipino
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 25
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 675
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 4500
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 35000
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 7500
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 124050
+    }
+}
+#Mindanao Region (496000)
+#Under tisoy "Rule" 1836
+#Cagayan De Oro (152000/38000 POPS)
+1463 = {
+    bureaucrats = {
+        culture = filipino
+        religion = protestant
+        size = 75
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 25
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 850
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 14800
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 600
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 12200
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 350
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 7375
+    }
+}
+#Under rule of Spain in 1836
+#Zamboanga (126744 POPS)
+1462 = {
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 600
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 5000
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 2500
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 6000
+    }
+
+    farmers = {
+        culture = filipino
+        religion = protestant
+        size = 94900
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = filipino
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = protestant
+        size = 100
+    }
+
+    slaves = {
+        culture = filipino
+        religion = protestant
+        size = 18525
+    }
+}

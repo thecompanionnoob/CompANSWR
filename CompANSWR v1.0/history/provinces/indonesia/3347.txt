@@ -1,0 +1,6 @@
+add_core = SUL
+controller = SUL
+add_core = PHL
+owner = SUL
+trade_goods = grain
+life_rating = 10

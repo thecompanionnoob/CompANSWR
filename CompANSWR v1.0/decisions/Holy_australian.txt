@@ -1,0 +1,342 @@
+political_decisions = {
+        Holy_Austalian  = {
+        picture = empire
+        potential = {
+            OR = {                
+                tag = HAE
+            }
+            NOT = {has_global_flag = Holy_aust}
+			
+        }
+        allow = {         
+            war = no  
+             HAE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			FRM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            WAG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			AUG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+			RPL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			TTB = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            UIL = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			UNB = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			UNM = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			UOR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            FSA = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			BLZ = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+			VEN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+			}
+			TRE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            ION = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+			BRE  = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+			PRT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            OLD = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }		  
+        }
+        effect = {                
+            prestige = 30
+            set_global_flag= Holy_aust
+            HAE = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            FRM = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            WAG = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            AUG = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            PRI = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            RPL = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            TTB = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            UIL = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            UNB = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            UNM = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            UOR = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            FSA = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            BLZ = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            VEN = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            TRE = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            ION = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            PRT = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            OLD = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}
+            BRE = {
+				all_core = { add_core = HAE secede_province = THIS }
+			}			
+            add_accepted_culture = perther
+            add_accepted_culture = eyre
+            add_accepted_culture = australian
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+    Holy_Aus  = {
+        picture = conquest_of_the_desert
+        potential = {
+            OR = {                
+                tag = HAE
+            }
+            NOT = {has_global_flag = Aus}	
+        }
+        allow = {         
+            war = no           
+            money = 600000 
+        }
+        effect = {                
+            money = -600000 
+            set_global_flag = Aus
+            2495 = {secede_province = THIS}
+            2503 = {secede_province = THIS}
+            2605 = {secede_province = THIS}  
+            2507 = {secede_province = THIS}   
+            2603 = {secede_province = THIS} 
+            2601 = {secede_province = THIS}          			
+        }
+		ai_will_do = {
+			factor = 1
+		}
+    }
+}

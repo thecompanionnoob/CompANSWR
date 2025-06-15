@@ -1,0 +1,156 @@
+NET = { value = 0 }
+SWI = { value = 0 }
+UNS = { value = 0 }
+AUS = { value = 0 }
+BOH = { value = 0 }
+AST = { value = 0 }
+NEN = { value = 0 }
+
+army = {
+    name = "Mansure Army"
+    location = 867
+    regiment = {
+        name= "1. Temeni Firkasi"
+        type = infantry
+        home = 863
+    }
+
+    regiment = {
+        name= "2. Temeni Firkasi"
+        type = infantry
+        home = 862
+    }
+
+    regiment = {
+        name= "3. Temeni Firkasi"
+        type = infantry
+        home = 861
+    }
+
+    regiment = {
+        name= "4. Temeni Firkasi"
+        type = infantry
+        home = 870
+    }
+
+    regiment = {
+        name= "5. Temeni Firkasi"
+        type = infantry
+        home = 866
+    }
+
+    regiment = {
+        name= "6. Temeni Firkasi"
+        type = infantry
+        home = 874
+    }
+
+    regiment = {
+        name= "1. Savari Firkasi"
+        type = cuirassier
+        home = 877
+    }
+
+    regiment = {
+        name= "2. Savari Firkasi"
+        type = cuirassier
+        home = 873
+    }
+
+    regiment = {
+        name= "3. Savari Firkasi"
+        type = cuirassier
+        home = 894
+    }
+
+    regiment = {
+        name= "1. Topau Firkas"
+        type = artillery
+        home = 875
+    }
+
+}
+
+navy = {
+    name = "Turkish Navy"
+    location = 861
+    ship = {
+        name= "Masudiya"
+        type = manowar
+    }
+
+    ship = {
+        name= "Sadd al Bahri"
+        type = manowar
+    }
+
+    ship = {
+        name= "Ankay i Barhi"
+        type = manowar
+    }
+
+    ship = {
+        name= "Sayyad i Barhi"
+        type = manowar
+    }
+
+
+    ship = {
+        name= "Bedr i Zafar"
+        type = frigate
+    }
+
+    ship = {
+        name= "Meskeni Ghazi"
+        type = frigate
+    }
+
+    ship = {
+        name= "Fakim i Zafar"
+        type = frigate
+    }
+
+    ship = {
+        name= "1st Transport Flotilla"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "2nd Transport Flotilla"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3rd Transport Flotilla"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "4st Transport Flotilla"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "5st Transport Flotilla"
+        type = clipper_transport
+    }
+
+}
+
+leader = {
+    name = "Omer Vrioni"
+    type = land
+    date = 2820.1.1
+    background = rising_star
+    personality = skilled
+    prestige = 0.1
+    }
+
+leader = {
+    name = "Yaver Pasha"
+    date = 2836.1.1
+    type = sea
+    personality = diplomatic
+    background = gifted_administrator
+    prestige = 0.1
+}

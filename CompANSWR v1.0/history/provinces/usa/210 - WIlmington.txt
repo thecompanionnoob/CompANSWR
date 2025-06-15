@@ -1,0 +1,6 @@
+owner = RPL
+controller = RPL
+add_core = PRI
+terrain = plains
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,341 @@
+#Uganda Region (1136000)
+#uncolonized in 1836/dominated by Buganda in 1836
+#Entebbe (400000/100000 POPS)
+2019 = {
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    officers = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    officers = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 725
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 1800
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 1000
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 1000
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 48025
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 15000
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 575
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 1500
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 10325
+    }
+
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 7000
+    }
+}
+#Masindi (192000/48000 POPS)
+2021 = {
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 550
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 300
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 700
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 1450
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 3700
+    }
+
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 775
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 20450
+    }
+}
+#Kitgum (104000/26000 POPS)
+2022 = {
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 775
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 24450
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 125
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 350
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 5075
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 2700
+    }
+
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 3300
+    }
+}
+#Jinja (208000/52000 POPS)
+2023 = {
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 275
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 150
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 750
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 575
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 150
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 375
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 52850
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 9000
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 1900
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 4400
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 6000
+    }
+
+}

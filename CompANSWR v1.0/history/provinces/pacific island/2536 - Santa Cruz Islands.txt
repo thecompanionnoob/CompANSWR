@@ -1,0 +1,6 @@
+owner = TRE
+controller = TRE
+add_core = ION
+trade_goods = coal
+terrain = hills
+life_rating = 35

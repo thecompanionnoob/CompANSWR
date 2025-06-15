@@ -1,0 +1,6 @@
+owner = AUG
+controller = AUG
+add_core = BLZ
+trade_goods = coal
+terrain = hills
+life_rating = 33

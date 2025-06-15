@@ -1,0 +1,79 @@
+political_decisions = {
+        form_baltic_states  = {
+        picture = form_baltic_states
+        potential = {
+            OR = {                
+                tag = IZH
+                tag = EST
+                                
+            }
+            NOT = { exists = UBD }
+			
+        }
+
+        allow = {         
+            war = no           
+            LIT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            IZH = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            EST = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                
+            prestige = 10
+            change_tag = UBD
+
+            LIT = {
+				all_core = { add_core = UBD secede_province = THIS }
+			}
+            IZH = {
+				all_core = { add_core = UBD secede_province = THIS }
+			}
+            EST = {
+				all_core = { add_core = UBD secede_province = THIS }
+			}
+            add_accepted_culture = paltijan
+            add_accepted_culture = tesredinikh
+            add_accepted_culture = osti
+            
+        }
+		ai_will_do = { factor = 1 }
+    }
+}

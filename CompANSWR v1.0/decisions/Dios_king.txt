@@ -1,0 +1,132 @@
+political_decisions = {
+        Dio_King  = {
+        picture = kingdom_of_god
+        potential = {
+            OR = {                
+                tag = PAP
+                
+                                
+            }
+            NOT = { exists = DIO }
+            		
+        }
+
+        allow = {         
+            war = no                       
+	    PAP = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            APU = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+             TUS = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         }
+            PAR = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                
+            prestige = 25
+            change_tag = DIO       
+            SIC = {
+				all_core = { add_core = DIO secede_province = THIS }
+			}
+            APU = {
+				all_core = { add_core = DIO secede_province = THIS }
+			}
+            TUS = {
+				all_core = { add_core = DIO secede_province = THIS }
+			}
+            PAR = {
+				all_core = { add_core = DIO secede_province = THIS }
+			}
+            add_accepted_culture = north_italian
+            add_accepted_culture = south_italian
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Dio_King_2  = {
+        picture = kingdom_of_god
+		
+        potential = {
+            OR = {                
+                tag = DIO
+                              
+            }
+            NOT={has_global_flag = Dio_1}
+            		
+        }
+		
+        
+		
+        allow = {         
+            war = no        
+                        
+        }
+		
+        
+
+        effect = {  
+            set_global_flag = Dio_1		
+            badboy = 15
+            any_country = {
+                limit = {
+                    has_country_flag = catholic_country
+                }
+                country_event = { id = 851089 days = 2 }
+            }
+            
+     
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    }
+}

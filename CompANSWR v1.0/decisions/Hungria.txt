@@ -1,0 +1,82 @@
+political_decisions = {
+	hungria  = {
+        picture = reclaim_croatia
+        potential = {
+            OR = {                
+                tag = HUN              
+            }
+            NOT = {has_global_flag = Hungria}	
+        }
+        allow = {         
+            war = no           
+            HUN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            BAN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            GLC = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        }
+            DAK = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+	        } 
+        }
+        effect = {                
+            prestige = 10
+            BAN = {
+				all_core = { add_core = HUN secede_province = THIS }
+			}
+            GLC = {
+				all_core = { add_core = HUN secede_province = THIS }
+			}
+            DAK = {
+				all_core = { add_core = HUN secede_province = THIS }
+			}
+            set_global_flag= Hungria
+            add_accepted_culture = hungarian
+            add_accepted_culture = staromadar
+        }
+		ai_will_do = { factor = 1 }
+    }
+}

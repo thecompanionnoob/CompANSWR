@@ -1,0 +1,6 @@
+owner = AUG
+controller = AUG
+add_core = UIL
+trade_goods = cattle
+terrain = plains
+life_rating = 35

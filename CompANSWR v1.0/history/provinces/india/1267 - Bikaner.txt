@@ -1,0 +1,6 @@
+owner = NEP
+controller = NEP
+add_core = NEP
+add_core = IND
+trade_goods = wool
+life_rating = 32

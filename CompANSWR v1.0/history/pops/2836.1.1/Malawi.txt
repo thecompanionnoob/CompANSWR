@@ -1,0 +1,67 @@
+#Nyasaland Region (368000)
+#uncolonized in 1836/dominated by the Yao
+#Zomba (208000/52000 POPS)
+2066 = {
+    aristocrats = {
+        culture = shona
+        religion = protestant
+        size = 550
+    }
+
+    clergymen = {
+        culture = shona
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = shona
+        religion = protestant
+        size = 1450
+    }
+
+    soldiers = {
+        culture = shona
+        religion = protestant
+        size = 300
+    }
+
+    farmers = {
+        culture = shona
+        religion = protestant
+        size = 26400
+    }
+}
+#Lilongwe (160000/40000 POPS)/dominated by Kazembe
+2067 = {
+    aristocrats = {
+        culture = lunda
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = lunda
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = lunda
+        religion = protestant
+        size = 850
+    }
+
+    soldiers = {
+        culture = lunda
+        religion = protestant
+        size = 225
+    }
+
+    farmers = {
+        culture = lunda
+        religion = protestant
+        size = 18125
+    }
+
+}

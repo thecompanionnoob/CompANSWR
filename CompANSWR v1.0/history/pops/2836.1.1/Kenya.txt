@@ -1,0 +1,371 @@
+#Rift Highlands Region (620000)
+#uncolonized in 1836
+#Nairobi (260000/65000 POPS)
+2024 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 925
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 475
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 2400
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 500
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 43700
+    }
+}
+#Lodwar (36000/9000 POPS)
+2026 = {
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 4625
+    }
+	
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 1100
+    }
+}
+#Nakuru (128000/32000 POPS)
+2027 = {
+
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 150
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 650
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 175
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 11725
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 30000
+    }
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 375
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 1100
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 18225
+    }
+
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 7000
+    }
+}
+#Tana Region (324000)
+#uncolonized in 1836
+#Wajir (100000/25000 POPS)
+2031 = {
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 400
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 850
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 225
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 18225
+    }
+
+    aristocrats = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = tigray
+        religion = protestant
+        size = 200
+    }
+
+    soldiers = {
+        culture = tigray
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = tigray
+        religion = protestant
+        size = 3650
+    }
+
+    slaves = {
+        culture = tigray
+        religion = protestant
+        size = 1100
+    }
+}
+#Garissa (172000/43000 POPS)
+2032 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 650
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 375
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 1750
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 350
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 31875
+    }
+}
+#Upper Swahili Coast Region (304000)
+#ruled by kingdom of Oman in 1836
+#Mombasa (100000/25000 POPS)
+2029 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 200
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 550
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 9150
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 15000
+    }
+}
+#Lamu (100000/25000 POPS)
+2030 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 225
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 125
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 500
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 125
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 10025
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 8000
+    }
+}
+#uncolonized in 1836
+#Voi (104000/26000 POPS)
+2033 = {
+    aristocrats = {
+        culture = swahili
+        religion = protestant
+        size = 475
+    }
+
+    clergymen = {
+        culture = swahili
+        religion = protestant
+        size = 250
+    }
+
+    artisans = {
+        culture = swahili
+        religion = protestant
+        size = 1300
+    }
+
+    soldiers = {
+        culture = swahili
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = swahili
+        religion = protestant
+        size = 20725
+    }
+
+    slaves = {
+        culture = swahili
+        religion = protestant
+        size = 3000
+    }
+
+}
