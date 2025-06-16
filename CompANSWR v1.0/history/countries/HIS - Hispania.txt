@@ -6,7 +6,7 @@ culture = portuguese
 religion = protestant
 government = hms_government
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.13
 civilized = yes
 
@@ -17,7 +17,7 @@ vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+administrative_reform = corrupt_administrative_state
 political_parties = non_secret_ballots
 
 # Social Reforms

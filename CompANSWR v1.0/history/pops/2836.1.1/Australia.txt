@@ -3178,7 +3178,7 @@
         religion = protestant
         size = 29350
     }
-    serfs = {
+    farmers = {
         culture = perther
         religion = protestant
         size = 12500
@@ -3251,7 +3251,7 @@
         religion = protestant
         size = 69750
     }
-    serfs = {
+    farmers = {
         culture = perther
         religion = protestant
         size = 21700
@@ -3324,7 +3324,7 @@
         religion = protestant
         size = 15750
     }
-    serfs = {
+    farmers = {
         culture = perther
         religion = protestant
         size = 6700
@@ -3342,13 +3342,13 @@
         size = 11750
     }
 
-    serfs = {
+    farmers = {
         culture = eyre
         religion = protestant
         size = 4700
     }
 
-    serfs = {
+    farmers = {
         culture = australian
         religion = protestant
         size = 1700
@@ -3526,7 +3526,7 @@
         religion = protestant
         size = 44010
     }
-    serfs = {
+    farmers = {
         culture = perther
         religion = protestant
         size = 12000
@@ -3748,7 +3748,7 @@
         size = 14020
     }
 
-    serfs = {
+    farmers = {
         culture = perther
         religion = protestant
         size = 3000
@@ -3834,7 +3834,7 @@
         size = 9020
     }
 
-    serfs = {
+    farmers = {
         culture = perther
         religion = protestant
         size = 2000

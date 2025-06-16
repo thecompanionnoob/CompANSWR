@@ -4,7 +4,7 @@ culture = boer
 religion = protestant
 government = hms_government
 plurality = 0.6
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.2
 civilized = yes
 is_releasable_vassal = no
@@ -16,7 +16,7 @@ vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = non_socialist
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = non_secret_ballots
 
 # Social Reforms

@@ -3,7 +3,7 @@ primary_culture = pacifica
 religion = protestant
 government = democracy
 plurality = 10
-nationalvalue = nv_equality
+nationalvalue = nv_none
 literacy = 0.8
 civilized = yes
 
@@ -14,7 +14,7 @@ vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = all_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = gerrymandering
 
 # Social Reforms

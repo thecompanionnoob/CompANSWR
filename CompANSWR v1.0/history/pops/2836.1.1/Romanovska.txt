@@ -35,7 +35,7 @@
         religion = protestant
         size = 122550
     }
-    serfs = {
+    farmers = {
         culture = novosibiryaki
         religion = protestant
         size = 65245
@@ -89,7 +89,7 @@
         religion = protestant
         size = 42550
     }
-    serfs = {
+    farmers = {
         culture = novosibiryaki
         religion = protestant
         size = 25245
@@ -157,7 +157,7 @@
         size = 25750
     }
 
-    serfs = {
+    farmers = {
         culture = novosibiryaki
         religion = protestant
         size = 35000

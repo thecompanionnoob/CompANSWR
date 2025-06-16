@@ -112,7 +112,7 @@
         size = 63325
     }
 
-    serfs = {
+    farmers = {
         culture = serb
         religion = protestant
         size = 1000
@@ -234,7 +234,7 @@
         size = 30275
     }
 
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 18000
@@ -286,7 +286,7 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = serb
         religion = protestant
         size = 21500
@@ -329,7 +329,7 @@
         size = 300
     }
 
-    serfs = {
+    farmers = {
         culture = serb
         religion = protestant
         size = 34175
@@ -389,7 +389,7 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 4625
@@ -662,7 +662,7 @@
         religion = protestant
         size = 101575
     }
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 24625
@@ -697,13 +697,13 @@
         size = 3170
     }
 
-    serfs = {
+    farmers = {
         culture = serb
         religion = protestant
         size = 41175
     }
 
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 13125
@@ -713,7 +713,7 @@
 #under the rule of Austria in 1836
 #Kotor (64000/16000 POPS)
 2582 = {
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 17625
@@ -799,7 +799,7 @@
         religion = protestant
         size = 2400
     }
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 6925
@@ -1017,7 +1017,7 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = serb
         religion = protestant
         size = 1825
@@ -1165,7 +1165,7 @@
         religion = protestant
         size = 25300
     }
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 8675
@@ -1277,7 +1277,7 @@
         size = 10775
     }
 
-    serfs = {
+    farmers = {
         culture = croat
         religion = protestant
         size = 4000

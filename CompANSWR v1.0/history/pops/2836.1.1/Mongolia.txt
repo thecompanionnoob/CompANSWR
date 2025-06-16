@@ -554,7 +554,7 @@
         size = 25250
     }
 
-    serfs = {
+    farmers = {
         culture = mongol
         religion = protestant
         size = 10000

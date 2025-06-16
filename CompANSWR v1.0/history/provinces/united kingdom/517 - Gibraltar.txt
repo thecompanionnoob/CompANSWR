@@ -5,5 +5,5 @@ terrain = urban
 trade_goods = fish
 life_rating = 35
 colonial = 2
-naval_base = 2
+naval_base = 1
 fort = 1

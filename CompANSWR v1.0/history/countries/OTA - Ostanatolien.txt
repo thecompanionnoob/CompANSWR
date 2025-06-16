@@ -3,7 +3,7 @@ primary_culture = turkish
 religion = protestant
 government = absolute_monarchy
 plurality = 0.08
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.24
 civilized = yes
 prestige = 1
@@ -15,7 +15,7 @@ vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+administrative_reform = corrupt_administrative_state
 political_parties = non_secret_ballots
 
 # Social Reforms
@@ -25,7 +25,7 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-school_reforms = low_schools
+school_reforms = no_schools
 
 #New Reforms
 conscription = four_year_draft

@@ -3,7 +3,7 @@ primary_culture = staromadar
 religion = protestant
 government = absolute_monarchy
 plurality = 1.0
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.31
 civilized = yes
 
@@ -14,7 +14,7 @@ vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = underground_parties
 
 # Social Reforms

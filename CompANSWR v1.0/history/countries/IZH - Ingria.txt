@@ -4,7 +4,7 @@ culture = russian
 religion = protestant
 government = trading_republic
 plurality = 10.0
-nationalvalue = nv_productivity
+nationalvalue = nv_none
 literacy = 0.48
 civilized = yes
 
@@ -15,7 +15,7 @@ vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+administrative_reform = corrupt_administrative_state
 political_parties = non_secret_ballots
 
 # Social Reforms

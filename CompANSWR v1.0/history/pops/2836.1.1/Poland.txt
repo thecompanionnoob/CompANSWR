@@ -985,7 +985,7 @@
         size = 27850
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 5000
@@ -1047,7 +1047,7 @@
         size = 40000
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 5000
@@ -1119,7 +1119,7 @@
         size = 68600
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 20000
@@ -1163,7 +1163,7 @@
         size = 56275
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 20000
@@ -1237,7 +1237,7 @@
         size = 49600
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 40000
@@ -1289,7 +1289,7 @@
         size = 7500
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 17700
@@ -1325,7 +1325,7 @@
         size = 45000
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 50000
@@ -1395,7 +1395,7 @@
         size = 6500
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 80000
@@ -1493,7 +1493,7 @@
         size = 40625
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 5000
@@ -1555,7 +1555,7 @@
         size = 40675
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 40000
@@ -1617,7 +1617,7 @@
         size = 50275
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 5000
@@ -1655,7 +1655,7 @@
         size = 36825
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 20000
@@ -1717,7 +1717,7 @@
         size = 46050
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 50000
@@ -1775,7 +1775,7 @@
         size = 1500
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 25500

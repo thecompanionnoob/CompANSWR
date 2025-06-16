@@ -44,7 +44,7 @@
         size = 68725
     }
 
-    serfs = {
+    farmers = {
         culture = pacinian
         religion = protestant
         size = 80000
@@ -97,7 +97,7 @@
         size = 4425
     }
 
-    serfs = {
+    farmers = {
         culture = pacinian
         religion = protestant
         size = 50100
@@ -135,7 +135,7 @@
         size = 13475
     }
 
-    serfs = {
+    farmers = {
         culture = pacinian
         religion = protestant
         size = 14000
@@ -176,7 +176,7 @@
 
 #Tena (23000 POPS)
 2284 = {
-    serfs = {
+    farmers = {
         culture = pacinian
         religion = protestant
         size = 6600
@@ -215,7 +215,7 @@
 
 #Zamora de Ecuador (14958 POPS)
 3384 = {
-    serfs = {
+    farmers = {
         culture = pacinian
         religion = protestant
         size = 1600
@@ -317,7 +317,7 @@
         size = 48325
     }
 
-    serfs = {
+    farmers = {
         culture = pacinian
         religion = protestant
         size = 51000

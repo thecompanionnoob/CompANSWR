@@ -5,7 +5,7 @@ culture = australian
 religion = protestant
 government = hms_government
 plurality = 30
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.6
 civilized = yes
 
@@ -17,7 +17,7 @@ vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = non_socialist
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = non_secret_ballots
 
 # Social Reforms
@@ -27,7 +27,7 @@ safety_regulations = trinket_safety
 health_care = no_health_care
 unemployment_subsidies = trinket_subsidies
 pensions = no_pensions
-school_reforms = low_schools
+school_reforms = no_schools
 
 #New Reforms
 conscription = one_year_draft

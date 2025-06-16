@@ -3,7 +3,7 @@ primary_culture = portuguese
 religion = protestant
 government = hms_government
 plurality = 12.5
-nationalvalue = nv_productivity
+nationalvalue = nv_none
 literacy = 0.2
 non_state_culture_literacy = 0.02
 civilized = yes
@@ -16,7 +16,7 @@ vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
+administrative_reform = corrupt_administrative_state
 political_parties = non_secret_ballots
 
 # Social Reforms
@@ -105,7 +105,7 @@ vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = non_socialist
-voting_system = jefferson_method
+administrative_reform = corrupt_administrative_state
 political_parties = gerrymandering
 
 ruling_party = POR_liberal_2
@@ -121,7 +121,7 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-school_reforms = low_schools
+school_reforms = no_schools
 
 # Technologies
     post_napoleonic_thought = 1

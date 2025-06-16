@@ -11,17 +11,17 @@ artillery = {
 	priority = 20
 	max_strength = 3
 	default_organisation = 30
-	maximum_speed = 8.00
+	maximum_speed = 4.00
 	weighted_value = 5.0
 
 
 	#Building Costs
-	build_time = 80
+	build_time = 120
 	build_cost = {
-		artillery = 5
-		canned_food = 5
-		liquor = 5
-		wine = 5
+		artillery = 15
+		canned_food = 15
+		#liquor = 10
+		#wine = 10
 	}
 	
 	supply_consumption = 1.0
@@ -33,10 +33,10 @@ artillery = {
 
 	#Land Abilties
 	reconnaissance = 0
-	attack = 1.5
-	defence = 3
+	attack = 1
+	defence = 1.5
 	discipline = 1.0
-	support = 2
+	support = 1.35 #(attack or defense + 10) * this - when in backline
 	maneuver = 1
 
 }

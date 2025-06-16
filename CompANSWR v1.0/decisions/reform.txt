@@ -1,0 +1,226 @@
+political_decisions = {
+	reform_admin_1_money = {
+		potential = {
+			civilized = yes
+			administrative_reform = corrupt_administrative_state
+			NOT = { year = 1865 }
+		}
+		allow = {
+			ideological_thought = 1
+			money = 750000
+		}
+		effect = {
+			political_reform = incompetent_administrative_state
+			treasury = -750000
+			prestige = 10
+		}
+	}
+	reform_admin_1_time = {
+		potential = {
+			civilized = yes
+			administrative_reform = corrupt_administrative_state
+			year = 1865
+		}
+		allow = {
+			ideological_thought = 1
+		}
+		effect = {
+			political_reform = incompetent_administrative_state
+			prestige = 5
+		}
+	}
+	reform_admin_2_money = {
+		potential = {
+			civilized = yes
+			administrative_reform = incompetent_administrative_state
+			NOT = { year = 1895 }
+		}
+		allow = {
+			year = 1865
+			state_n_government = 1
+			money = 750000
+		}
+		effect = {
+			political_reform = effective_administrative_state
+			treasury = -750000
+			prestige = 10
+		}
+	}
+	reform_admin_2_time = {
+		potential = {
+			civilized = yes
+			administrative_reform = incompetent_administrative_state
+			year = 1895
+		}
+		allow = {
+			state_n_government = 1
+		}
+		effect = {
+			political_reform = effective_administrative_state
+			prestige = 5
+		}
+	}
+	roll_back_healthcare = {
+		picture = healthcare
+		alert = no
+		potential = {
+			OR = {
+				health_care = trinket_health_care
+				health_care = low_health_care
+				health_care = acceptable_health_care
+				health_care = good_health_care
+			}
+		}
+		allow = { }
+		effect = {
+			social_reform = no_health_care
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	roll_back_education = {
+		picture = education_idea_decision
+		alert = no
+		potential = {
+			OR = {
+				school_reforms = low_schools
+				school_reforms = middling_schools
+				school_reforms = acceptable_schools
+				school_reforms = good_schools
+			}
+		}
+		allow = { }
+		effect = {
+			social_reform = no_schools
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+
+	adv_healthcare_0 = {
+		picture = healthcare
+		potential = {
+			health_care = no_health_care
+		}
+		allow = {
+			OR = {
+				health_system = mixed_health_system
+				health_system = public_health_system
+			}
+
+		}
+		effect = {
+			social_reform = trinket_health_care
+		}
+	}
+
+	adv_healthcare_1 = {
+		picture = healthcare
+		potential = {
+			health_care = trinket_health_care
+		}
+		allow = {
+			OR = {
+				health_system = mixed_health_system
+				health_system = public_health_system
+			}
+			medicine = 1
+		}
+		effect = {
+			social_reform = low_health_care
+		}
+	}
+
+	adv_healthcare_2 = {
+		picture = healthcare
+		potential = {
+			health_care = low_health_care
+		}
+		allow = {
+			health_system = public_health_system
+			organic_chemistry = 1
+		}
+		effect = {
+			social_reform = acceptable_health_care
+		}
+	}
+
+	adv_healthcare_3 = {
+		picture = healthcare
+		potential = {
+			health_care = acceptable_health_care
+		}
+		allow = {
+			health_system = public_health_system
+			electricity = 1
+		}
+		effect = {
+			social_reform = good_health_care
+		}
+	}
+
+	adv_edu_0 = {
+		picture = education_idea_decision
+		potential = {
+			school_reforms = no_schools
+		}
+		allow = {
+			OR = {
+				education_system = mixed_edu_system
+				education_system = public_edu_system
+			}
+		}
+		effect = {
+			social_reform = low_schools
+		}
+	}	
+
+	adv_edu_1 = {
+		picture = education_idea_decision
+		potential = {
+			school_reforms = low_schools
+		}
+		allow = {
+			OR = {
+				education_system = mixed_edu_system
+				education_system = public_edu_system
+			}
+			positivism = 1
+		}
+		effect = {
+			social_reform = middling_schools
+		}
+	}
+
+	adv_edu_2 = {
+		picture = education_idea_decision
+		potential = {
+			school_reforms = middling_schools
+		}
+		allow = {
+			education_system = public_edu_system
+			functionalism = 1
+		}
+		effect = {
+			social_reform = acceptable_schools
+		}
+	}
+
+	adv_edu_3 = {
+		picture = education_idea_decision
+		potential = {
+			school_reforms = acceptable_schools
+		}
+		allow = {
+			education_system = public_edu_system
+			biologism = 1
+		}
+		effect = {
+			social_reform = good_schools
+		}
+	}
+			
+}

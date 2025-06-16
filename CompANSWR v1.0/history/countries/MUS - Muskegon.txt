@@ -3,7 +3,7 @@ primary_culture = rustic
 religion = protestant
 government = absolute_monarchy
 plurality = 5
-nationalvalue = nv_productivity
+nationalvalue = nv_none
 literacy = 0.62
 civilized = yes
 
@@ -14,7 +14,7 @@ vote_franschise = none_voting
 public_meetings = no_meeting
 press_rights = free_press
 trade_unions = all_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = gerrymandering
 
 # Social Reforms

@@ -1,0 +1,267 @@
+political_decisions = { ### See common/event_modifiers.txt for the effects of the ideas.
+	national_idea_enable = {
+		potential = {
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_flag = national_ideas_enabled
+			}
+		}
+		allow = {}
+		effect = {
+			set_country_flag = national_ideas_enabled
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	national_idea_disable = {
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+		}
+	}
+	naval_idea_decision = { #alll the naval modifiers
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = naval_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = naval_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+    colonial_migration_decision = { #allows colonial migration
+        alert = no
+        potential = {
+            has_country_flag = national_ideas_enabled
+            NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = colonial_migration_idea
+			}
+        }
+        allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = colonial_migration_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+             
+		}
+    }
+
+	economic_idea_decision = { #tax efficiency, RGO effeciency, general economic modifiers
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = economic_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = economic_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+	industry_idea_decision = { #more industry output, throughput, input
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = industry_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = industry_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+	political_idea_decision = { #less militancy, consciousness, more ruling party support
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = political_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = political_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+	diplomatic_idea_decision = { #less infamy, sphere quicker
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = diplomatic_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = diplomatic_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+    promotion_idea_decision = { #buffs promotion
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = promotion_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+            set_country_flag = promotion_idea #unfortunately necessary, pop_types.txt is so buggy
+			add_country_modifier = { name = promotion_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+
+	assimilation_idea_decision = { #buffs assim 
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = assim_idea
+			}
+		}
+		allow = { }
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = assim_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+        
+	education_idea_decision = { #education eff.
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = education_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = education_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+	army_quantity_idea_decision = { #army quantity & logistics modifiers
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = army_quantity_idea
+			}
+			#Maybe gate china?
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = army_quantity_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+	army_quality_idea_decision = { #army quality modifiers
+		alert = no
+		potential = {
+			has_country_flag = national_ideas_enabled
+			NOT = {
+				has_country_modifier = national_idea_timer
+			}
+			NOT = {
+				has_country_modifier = army_quality_idea
+			}
+		}
+		allow = {}
+		effect = {
+			clr_country_flag = national_ideas_enabled
+			clr_country_flag = national_idea_reminder
+			add_country_modifier = { name = army_quality_idea duration = -1 }
+			add_country_modifier = { name = national_idea_timer duration = 5475 }
+		}
+	}
+    colonial_migration_enable = {
+        potential = {
+            has_country_modifier = colonial_migration_idea
+            NOT = { has_country_flag = colonial_migration_idea }
+        }
+        allow = {}
+        effect = {
+            set_country_flag = colonial_migration_idea
+        }
+		ai_will_do = { #without this the ai was spamming the decision
+			factor = 0
+		}
+    }
+    colonial_migration_disable = {
+        potential = {
+            has_country_flag = colonial_migration_idea 
+        }
+        allow = {}
+        effect = {
+            clr_country_flag = colonial_migration_idea
+        }
+    }
+}
+			

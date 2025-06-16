@@ -3,7 +3,7 @@ primary_culture = anglo_canadian
 religion = protestant
 government = hms_government
 plurality = 0.1
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.65
 civilized = yes
 
@@ -14,14 +14,14 @@ vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = trinket_safety
-health_care = trinket_health_care
+health_care = no_health_care
 unemployment_subsidies = trinket_subsidies
 pensions = no_pensions
 school_reforms = no_schools

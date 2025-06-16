@@ -141,7 +141,7 @@
         size = 10325
     }
 
-    serfs = {
+    farmers = {
         culture = north_indian
         religion = protestant
         size = 10000
@@ -1134,7 +1134,7 @@
         size = 250
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 20000
@@ -1219,7 +1219,7 @@
         size = 11225
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 10000
@@ -1383,7 +1383,7 @@
         size = 900
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 50000
@@ -1466,7 +1466,7 @@
         size = 8650
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 50000
@@ -1541,7 +1541,7 @@
         size = 2875
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 40000
@@ -1622,7 +1622,7 @@
         size = 400
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 40000
@@ -1691,7 +1691,7 @@
         size = 650
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 60000
@@ -1801,7 +1801,7 @@
         size = 550
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 54000
@@ -2057,7 +2057,7 @@
         size = 650
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 57000
@@ -2125,7 +2125,7 @@
         size = 604225
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 50000
@@ -2193,7 +2193,7 @@
         size = 50050
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 30000
@@ -2256,7 +2256,7 @@
         size = 11500
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 40000
@@ -2361,7 +2361,7 @@
         size = 10000
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 24000
@@ -2573,7 +2573,7 @@
         size = 1835
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 30000
@@ -2641,7 +2641,7 @@
         size = 36900
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 80000
@@ -2709,7 +2709,7 @@
         size = 23700
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 50000
@@ -2777,7 +2777,7 @@
         size = 4525
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 35000
@@ -2857,7 +2857,7 @@
         size = 5350
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 100000
@@ -2964,7 +2964,7 @@
         size = 2000
     }
 
-    serfs = {
+    farmers = {
         culture = baluchi
         religion = protestant
         size = 40000
@@ -3304,7 +3304,7 @@
         size = 1850
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 50000
@@ -3384,7 +3384,7 @@
         size = 75
     }
 
-    serfs = {
+    farmers = {
         culture = baluchi
         religion = protestant
         size = 10780
@@ -3773,7 +3773,7 @@
         size = 4750
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 40000
@@ -3841,7 +3841,7 @@
         size = 3775
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 53000
@@ -4385,7 +4385,7 @@
         size = 6625
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 30000
@@ -4471,7 +4471,7 @@
         size = 4625
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 40000
@@ -4539,7 +4539,7 @@
         size = 3850
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 20000
@@ -4687,7 +4687,7 @@
         size = 46675
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 134000
@@ -4764,7 +4764,7 @@
         size = 105000
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 184000
@@ -4987,7 +4987,7 @@
         size = 32250
     }
 
-    serfs = {
+    farmers = {
         culture = south_indian
         religion = protestant
         size = 45000

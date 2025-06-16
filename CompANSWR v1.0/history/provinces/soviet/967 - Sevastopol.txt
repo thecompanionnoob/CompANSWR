@@ -3,9 +3,9 @@ controller = CRI
 add_core = CRI
 trade_goods = fish
 life_rating = 35
-naval_base = 2
+naval_base = 1
 fort = 1
 2861.1.1 = {
-    naval_base = 2
+    naval_base = 1
     fort = 2
 }

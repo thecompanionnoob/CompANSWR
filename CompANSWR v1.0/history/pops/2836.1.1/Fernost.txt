@@ -883,7 +883,7 @@
         size = 150
     }
 
-    serfs = {
+    farmers = {
         culture = slovene
         religion = protestant
         size = 43950
@@ -907,7 +907,7 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = slovene
         religion = protestant
         size = 36525

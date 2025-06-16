@@ -7,7 +7,7 @@ culture = kashmiri
 religion = protestant
 government = democracy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.02
 non_state_culture_literacy = 0.01
 
@@ -18,7 +18,7 @@ vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = state_controlled
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = gerrymandering
 
 # Social Reforms

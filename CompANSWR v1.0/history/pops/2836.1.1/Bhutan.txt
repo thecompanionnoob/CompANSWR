@@ -68,7 +68,7 @@
         size = 25
     }
 
-    serfs = {
+    farmers = {
         culture = nepali
         religion = protestant
         size = 3650

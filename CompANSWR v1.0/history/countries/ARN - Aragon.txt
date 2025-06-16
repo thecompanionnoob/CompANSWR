@@ -4,7 +4,7 @@ culture = south_italian
 religion = protestant
 government = absolute_monarchy
 plurality = 0
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.066917
 
 civilized = yes

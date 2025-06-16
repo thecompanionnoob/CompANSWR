@@ -194,7 +194,7 @@
         size = 3000
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size =  37250
@@ -240,7 +240,7 @@
         size = 55325
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 14525
@@ -290,7 +290,7 @@
         size =  78277
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 19275
@@ -340,7 +340,7 @@
         size = 71750
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 5125
@@ -384,7 +384,7 @@
         size = 19125
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 9550
@@ -442,7 +442,7 @@
         size = 61525
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 42125
@@ -512,7 +512,7 @@
         size = 125
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 14975
@@ -574,7 +574,7 @@
         size = 1100
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 54375
@@ -648,7 +648,7 @@
         size = 325
     }
 
-    serfs = {
+    farmers = {
         culture = hungarian
         religion = protestant
         size = 37375

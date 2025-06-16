@@ -666,7 +666,7 @@
         size = 231315
     }
 
-    serfs = {
+    farmers = {
         culture = yue
         religion = protestant
         size = 134000
@@ -784,7 +784,7 @@
         size = 352490
     }
 
-    serfs = {
+    farmers = {
         culture = yue
         religion = protestant
         size = 240000

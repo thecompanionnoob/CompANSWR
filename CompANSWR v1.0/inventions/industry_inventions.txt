@@ -1,13 +1,26 @@
-#wine invention
-industrial_fermentation = {
-	limit = { basic_chemistry = 1 }
+advanced_iron_mining = {
+	limit = { cheap_steel = 1 }
 	chance = {
 		base = 100
 	}
 	effect = {
-		activate_building = winery 
+		rgo_goods_output = {
+			iron = 1
+		}
 	}
 }
+advanced_forest_management = {
+	limit = { high_n_low_pressure_steam_engines = 1 }
+	chance = {
+		base = 100
+	}
+	effect = {
+		rgo_goods_output = {
+			timber = 0.4
+		}
+	}
+}
+
 #combustion_engine
 daimlers_automobile = {
 	limit = { combustion_engine = 1 }
@@ -55,7 +68,7 @@ wright_n_langleys_aeroplanes = {
 		}
 	}
 	effect = {
-		activate_building =aeroplane_factory 
+		activate_building = aeroplane_factory 
 		factory_goods_output = {
 			machine_parts = 0.02 
 		}
@@ -328,13 +341,13 @@ mechanized_slaughtering_block = {
 precision_work = {
 	limit = { mechanical_production = 1 }
 	chance = {
-		base = 2
+		base = 15
 		modifier = {
-			factor = 2
+			factor = 5
 			invention = mechanical_precision_saw
 		}
 		modifier = {
-			factor = 2
+			factor = 5
 			early_railroad = 1
 		}
 	}
@@ -934,7 +947,7 @@ aerial_bacteria_and_antiseptic_principle = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0002
+		#pop_growth = 0.0002
 		land_attrition = -0.05  
 		soldier_to_pop_loss = 0.01
 	}
@@ -988,7 +1001,7 @@ genetics:_heredity = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0002
+		#pop_growth = 0.0002
 	}
 }
 clinical_thermometers_and_binaural_stethoscopes = {
@@ -1005,21 +1018,13 @@ clinical_thermometers_and_binaural_stethoscopes = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0002
+		#pop_growth = 0.0002
 	}
 }
 prophylaxis_against_malaria = {
 	limit = { medicine = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			inorganic_chemistry = 1
-		}		
-		modifier = {
-			factor = 3
-			colonial_nation = yes
-		}
+		base = 50
 	}
 	effect = {
 		land_attrition = -0.05 
@@ -1226,7 +1231,7 @@ x_rays = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0002
+		#pop_growth = 0.0002
 		land_attrition = -0.02 
 	}
 }

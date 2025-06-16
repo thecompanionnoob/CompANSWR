@@ -728,7 +728,7 @@
         size = 129275
     }
 
-    serfs = {
+    farmers = {
         culture = ping
         religion = protestant
         size = 160000
@@ -772,7 +772,7 @@
         size = 70475
     }
 
-    serfs = {
+    farmers = {
         culture = ping
         religion = protestant
         size = 320000
@@ -1271,7 +1271,7 @@
         size = 512900
     }
 
-    serfs = {
+    farmers = {
         culture = ping
         religion = protestant
         size = 260000
@@ -1354,7 +1354,7 @@
         size = 51650
     }
 
-    serfs = {
+    farmers = {
         culture = ping
         religion = protestant
         size = 20000
@@ -1556,7 +1556,7 @@
         size = 261150
     }
 
-    serfs = {
+    farmers = {
         culture = ping
         religion = protestant
         size = 50000

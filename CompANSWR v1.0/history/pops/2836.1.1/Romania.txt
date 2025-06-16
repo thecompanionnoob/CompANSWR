@@ -14,7 +14,7 @@
         size = 2500
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 27450
@@ -95,7 +95,7 @@
         size = 2500
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 27450
@@ -172,7 +172,7 @@
         size = 275
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 17825
@@ -196,7 +196,7 @@
         size = 225
     }
 
-    serfs = {
+    farmers = {
         culture = austro_german
         religion = protestant
         size = 10500
@@ -294,7 +294,7 @@
         size = 26100
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 10000
@@ -365,7 +365,7 @@
         size = 250
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 26200
@@ -481,7 +481,7 @@
         size = 25125
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 26000
@@ -543,7 +543,7 @@
         size = 44575
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 3000
@@ -611,7 +611,7 @@
         size = 31500
     }
 
-    serfs = {
+    farmers = {
         culture = gypsy
         religion = protestant
         size = 2000
@@ -763,13 +763,13 @@
         size = 250
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 22275
     }
 
-    serfs = {
+    farmers = {
         culture = gypsy
         religion = protestant
         size = 1000
@@ -909,13 +909,13 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 7450
     }
 
-    serfs = {
+    farmers = {
         culture = gypsy
         religion = protestant
         size = 1500
@@ -1055,7 +1055,7 @@
         size = 29500
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 10000
@@ -1195,7 +1195,7 @@
         size = 300
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 24150
@@ -1367,7 +1367,7 @@
         size = 150
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 6025

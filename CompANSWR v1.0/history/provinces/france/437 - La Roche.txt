@@ -5,5 +5,5 @@ add_core = FRE
 trade_goods = grain
 life_rating = 32
 2861.1.1 = {
-    naval_base = 2
+    naval_base = 1
 }

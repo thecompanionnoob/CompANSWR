@@ -15,12 +15,12 @@ cavalry = {
 	priority = 25
 	max_strength = 3
 	default_organisation = 20
-	maximum_speed = 10.00
+	maximum_speed = 5.00
 	weighted_value = 4.0
 
 
 	#Building Costs
-	build_time = 80
+	build_time = 120
 	build_cost = {
 		wool = 20
 		wine = 10
@@ -28,14 +28,13 @@ cavalry = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		wool = 0.1
+		wool = 0.2
 	}
 	
 
 	#Land Abilties
-	reconnaissance = 2
-	attack = 3
-	defence = 1
+	attack = 5
+	defence = 4
 	discipline = 1.0
 	support = 0.0
 	maneuver = 2

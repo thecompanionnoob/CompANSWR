@@ -24,7 +24,7 @@ vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = gerrymandering
 
 wage_reform = no_minimum_wage
@@ -33,7 +33,7 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-school_reforms = low_schools
+school_reforms = no_schools
 
 #New Reforms
 conscription = four_year_draft

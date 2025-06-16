@@ -265,7 +265,7 @@
         size = 38475
     }
 
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 80000
@@ -304,7 +304,7 @@
         size = 14710
     }
 
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 30000
@@ -342,7 +342,7 @@
         religion = protestant
         size = 32400
     }
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 60000
@@ -380,7 +380,7 @@
         size = 42000
     }
 
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 42125
@@ -419,7 +419,7 @@
         size = 52875
     }
 
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 70000
@@ -470,7 +470,7 @@
         size = 60925
     }
 
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 50000
@@ -508,7 +508,7 @@
         size = 15500
     }
 
-    serfs = {
+    farmers = {
         culture = russian
         religion = protestant
         size = 70000

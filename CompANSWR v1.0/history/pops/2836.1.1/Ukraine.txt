@@ -44,7 +44,7 @@
         size = 200
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 3600
@@ -127,7 +127,7 @@
         size = 43800
     }
 
-    serfs = {
+    farmers = {
         culture = romanian
         religion = protestant
         size = 10000
@@ -203,7 +203,7 @@
         size = 900
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 85650
@@ -387,7 +387,7 @@
         size = 77050
     }
 
-    serfs = {
+    farmers = {
         culture = gypsy
         religion = protestant
         size = 1000
@@ -429,7 +429,7 @@
         size = 650
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 54725
@@ -539,7 +539,7 @@
         size = 450
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 34025
@@ -619,7 +619,7 @@
         size = 106200
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 10000
@@ -681,7 +681,7 @@
         size = 48325
     }
 
-    serfs = {
+    farmers = {
         culture = gypsy
         religion = protestant
         size = 1000
@@ -711,7 +711,7 @@
         size = 325
     }
 
-    serfs = {
+    farmers = {
         culture = polish
         religion = protestant
         size = 28550
@@ -793,7 +793,7 @@
         size = 46100
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 50000
@@ -915,7 +915,7 @@
         size = 40200
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 50000
@@ -1031,7 +1031,7 @@
         size = 43775
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 40000
@@ -1117,7 +1117,7 @@
         size = 37450
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 40000
@@ -1229,7 +1229,7 @@
         size = 24900
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 40000
@@ -1302,7 +1302,7 @@
         size = 49925
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 20000
@@ -1351,7 +1351,7 @@
         size = 30375
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 20000
@@ -1400,7 +1400,7 @@
         size = 25550
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 40000
@@ -1544,7 +1544,7 @@
         size = 22000
     }
 
-    serfs = {
+    farmers = {
         culture = krymskiy
         religion = protestant
         size = 15000
@@ -1612,7 +1612,7 @@ aristocrats = {
         size = 12000
     }
 
-    serfs = {
+    farmers = {
         culture = krymskiy
         religion = protestant
         size = 5000
@@ -1680,7 +1680,7 @@ aristocrats = {
         size = 22125
     }
 
-    serfs = {
+    farmers = {
         culture = krymskiy
         religion = protestant
         size = 16250
@@ -1762,7 +1762,7 @@ aristocrats = {
         size = 94950
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 27250
@@ -1806,7 +1806,7 @@ aristocrats = {
         size = 63825
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 52525
@@ -1868,7 +1868,7 @@ aristocrats = {
         size = 72255
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 18250
@@ -1942,7 +1942,7 @@ aristocrats = {
         size = 165100
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 45000
@@ -2136,7 +2136,7 @@ aristocrats = {
         size = 65875
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 45000
@@ -2212,7 +2212,7 @@ aristocrats = {
         size = 50150
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 5000
@@ -2342,7 +2342,7 @@ aristocrats = {
         size = 63625
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 60000
@@ -2418,7 +2418,7 @@ aristocrats = {
         size = 53350
     }
 
-    serfs = {
+    farmers = {
         culture = ukrainian
         religion = protestant
         size = 30000

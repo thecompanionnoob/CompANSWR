@@ -13,7 +13,7 @@ post_napoleonic_thought = {
 	dig_in_cap = 1
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.01
 		modifier = {
 			factor = 1.2
 			civilized = yes
@@ -24,7 +24,7 @@ post_napoleonic_thought = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -43,14 +43,6 @@ post_napoleonic_thought = {
 			factor = 1.02
 			tech_school = army_tech_school
 		}
-		modifier = {
-			factor = 3
-			year = 2846
-		}
-		modifier = {
-			factor = 5
-			year = 2856
-		}
 	}
 }
 
@@ -67,7 +59,7 @@ strategic_mobility = {
 	dig_in_cap = 1
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.01
 		modifier = {
 			factor = 1.2
 			civilized = yes
@@ -78,7 +70,7 @@ strategic_mobility = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -113,16 +105,12 @@ point_defense_system = {
 	year = 2850
 	cost = 10800
 	unciv_military = yes
-	engineer = {
-		support = 0.25
-	} 
 	army_base = {
 		supply_consumption = 0.20
-	} 
-	max_fort = 1
+	}
 	dig_in_cap = 1
 	ai_chance = {
-		factor = 2
+		factor = 1.01
 		modifier = {
 			factor = 1.2
 			civilized = yes
@@ -133,7 +121,7 @@ point_defense_system = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -168,9 +156,6 @@ deep_defense_system = {
 	year = 2870
 	cost = 14400
 	unciv_military = yes
-	engineer = {
-		support = 0.25
-	} 
 	army_base = {
 		supply_consumption = 0.20
 	} 
@@ -178,7 +163,7 @@ deep_defense_system = {
 	dig_in_cap = 1
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.01
 		modifier = {
 			factor = 1.2
 			civilized = yes
@@ -189,7 +174,7 @@ deep_defense_system = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -221,18 +206,17 @@ deep_defense_system = {
 infiltration = {
 	area = army_doctrine
 	year = 2900
-	cost = 18600
+	cost = 18000
 	unciv_military = yes
 		
 	army_base = {
 		supply_consumption = 0.20
 	} 
-	
-	max_fort = 1
+
 	dig_in_cap = 1
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.5
 		modifier = {
 			factor = 1.2
 			civilized = yes
@@ -243,7 +227,7 @@ infiltration = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -279,7 +263,7 @@ modern_army_doctrine = {
 	dig_in_cap = 1
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.2
 			civilized = yes
@@ -290,99 +274,7 @@ modern_army_doctrine = {
 			}
 		}
 		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 1.1
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-	}
-}
-great_war_entrenchment = {
-	area = army_doctrine
-	year = 2929
-	cost = 25600
-	unciv_military = yes
-	
-	army_base = {
-		supply_consumption = 0.20
-	} 
-	
-	max_fort = 1
-	dig_in_cap = 1
-	
-	ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.2
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 1.1
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-	}
-}
-cold_war_era_doctrine = {
-	area = army_doctrine
-	year = 2941
-	cost = 28000
-	unciv_military = yes
-	
-	army_base = {
-		supply_consumption = 0.20
-	} 
-	
-	max_fort = 1
-	dig_in_cap = 1
-	
-	ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.2
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -412,11 +304,10 @@ flintlock_rifles = {
 	cost = 3600
 	unciv_military = yes
 	
-	activate_unit = infantry
 	combat_width = -1
 
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -431,7 +322,7 @@ flintlock_rifles = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -453,18 +344,17 @@ muzzle_loaded_rifles = {
 	year = 2836
 	cost = 7200
 	unciv_military = yes
-	activate_unit = engineer
 	
 	combat_width = -2
 
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
 		}
 		modifier = {
-			factor = 2
+			factor = 1.2
 			civilized = yes
 			any_neighbor_country = {
 				civilized = yes
@@ -478,7 +368,7 @@ muzzle_loaded_rifles = {
 			year = 2850
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -499,16 +389,14 @@ breech_loaded_rifles = {
 	area = light_armament
 	year = 2850
 	cost = 10800
-
-	activate_unit = guard
 	unciv_military = yes
 
 	combat_width = -2
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
-			factor = 5
+			factor = 1.5
 			is_greater_power = yes
 		}
 		modifier = {
@@ -517,7 +405,7 @@ breech_loaded_rifles = {
 			year = 2860
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -562,7 +450,7 @@ machine_guns = {
 			is_greater_power = yes
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -592,20 +480,20 @@ machine_guns = {
 bolt_action_rifles = {
 	area = light_armament
 	year = 2900
-	cost = 18600
+	cost = 18000
 	unciv_military = yes
 	unit = 1
 	
 	combat_width = -5
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -638,98 +526,16 @@ modern_divisional_structure = {
 	unciv_military = yes
 
 	unit = 2
-	combat_width = -3
+	combat_width = -5
 	
 		ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
 		}
 		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-combined_arms = {
-	area = light_armament
-	year = 2929
-	cost = 25600
-	unciv_military = yes
-
-	combat_width = -2
-	
-		ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-divisional_armament = {
-	area = light_armament
-	year = 2939
-	cost = 28000
-	unciv_military = yes
-
-	combat_width = -1
-	
-		ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -766,7 +572,7 @@ bronze_muzzle_loaded_artillery = {
 	activate_unit = artillery
 	
 	ai_chance = {
-		factor = 3
+		factor = 1.05
 		modifier = {
 			factor = 1.2
 			is_greater_power = yes
@@ -781,7 +587,7 @@ bronze_muzzle_loaded_artillery = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -804,13 +610,14 @@ iron_muzzle_loaded_artillery = {
 	cost = 7200
 	unciv_military = yes
 	artillery = {
-		attack = 0.25
-		support = 0.5
+		support = 0.20
 		supply_consumption = 0.15
+		attack = 0.5
+		defence = 0.25
 	}
 	
 	ai_chance = {
-		factor = 3
+		factor = 1.05
 		modifier = {
 			factor = 1.2
 			is_greater_power = yes
@@ -829,7 +636,7 @@ iron_muzzle_loaded_artillery = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -848,12 +655,13 @@ iron_breech_loaded_artillery = {
 	cost = 10800
 	unciv_military = yes
 	artillery = {
-		attack = 0.25
-		support = 0.5
+		support = 0.25
 		supply_consumption = 0.3
+		attack = 0.5
+		defence = 0.5
 	}
 	ai_chance = {
-		factor = 3
+		factor = 1.05
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -868,7 +676,7 @@ iron_breech_loaded_artillery = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -891,13 +699,14 @@ steel_breech_loaded_artillery = {
 	cost = 14400
 	unciv_military = yes
 	artillery = {
-		attack = 0.5
-		support = 0.5
+		support = 0.25
 		supply_consumption = 0.3
+		attack = 0.5
+		defence = 0.5
 	}
 	
 	ai_chance = {
-		factor = 3
+		factor = 1.05
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -912,7 +721,7 @@ steel_breech_loaded_artillery = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -932,17 +741,17 @@ steel_breech_loaded_artillery = {
 indirect_artillery_fire = {
 	area = heavy_armament
 	year = 2900
-	cost = 18600
+	cost = 18000
 	unciv_military = yes
 	artillery = {
-		attack = 0.5
-		defence = 2
-		support = 1
+		support = 0.35
 		supply_consumption = 0.3
+		attack = 0.5
+		defence = 0.5
 	}
 	
 	ai_chance = {
-		factor = 3
+		factor = 1.05
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -957,7 +766,7 @@ indirect_artillery_fire = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -980,59 +789,14 @@ heavy_armament_dunno = {
 	cost = 21600
 	unciv_military = yes
 	artillery = {
-		attack = 0.5
-		defence = 2
-		support = 1
+		support = 0.35
 		supply_consumption = 0.3
-	}
-	
-	ai_chance = {
-		factor = 3
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-heavy_explosive_ordnance = {
-	area = heavy_armament
-	year = 2929
-	cost = 25600
-	unciv_military = yes
-	artillery = {
 		attack = 0.5
-		defence = 2
-		support = 1
-		supply_consumption = 0.2
+		defence = 0.5
 	}
 	
 	ai_chance = {
-		factor = 3
+		factor = 1.05
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1047,52 +811,7 @@ heavy_explosive_ordnance = {
 			}
 		}
 		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-rocket_propelled_artillery = {
-	area = heavy_armament
-	year = 2939
-	cost = 28000
-	unciv_military = yes
-	artillery = {
-		attack = 0.75
-		defence = 2
-		support = 1
-		supply_consumption = 0.3
-	}
-	
-	ai_chance = {
-		factor = 3
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1110,6 +829,7 @@ rocket_propelled_artillery = {
 	}
 }
 
+
 #military_science
 military_staff_system = {
 	area = military_science
@@ -1123,7 +843,7 @@ military_staff_system = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1138,7 +858,7 @@ military_staff_system = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1167,7 +887,7 @@ military_plans = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1186,7 +906,7 @@ military_plans = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1211,7 +931,7 @@ military_statistics = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1230,7 +950,7 @@ military_statistics = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1253,10 +973,9 @@ military_logistics = {
 		default_organisation = 5
 		supply_consumption = 0.20
 	}
-	mobilisation_size = 0.05
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1275,7 +994,7 @@ military_logistics = {
 			}
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1291,7 +1010,7 @@ military_logistics = {
 military_directionism = {
 	area = military_science
 	year = 2900
-	cost = 18600
+	cost = 18000
 	unciv_military = yes
 	
 	army_base = {
@@ -1299,18 +1018,22 @@ military_directionism = {
 		supply_consumption = 0.20
 	}
 	ai_chance = {
-		factor = 30
+		factor = 1.5
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
 		}
 		modifier = {
-			factor = 3
+			factor = 1.5
 			war = yes
 		}
 		modifier = {
 			factor = 1.02
 			tech_school = army_tech_school
+		}
+		modifier = {
+			factor = 1.05
+			war = yes
 		}
 		modifier = {
 			factor = 1.02
@@ -1343,7 +1066,7 @@ aeronautics = {
 	unciv_military = yes
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1362,95 +1085,7 @@ aeronautics = {
 			}
 		}
 		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-experimental_radar = {
-	area = military_science
-	year = 2926
-	cost = 25600
-	army_base = {
-		default_organisation = 10
-		supply_consumption = 0.20
-	}
-	
-	unciv_military = yes
-	
-	ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-advanced_radar_applications = {
-	area = military_science
-	year = 2936
-	cost = 28000
-	army_base = {
-		default_organisation = 10
-		supply_consumption = 0.10
-	}
-	
-	unciv_military = yes
-	
-	ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1471,6 +1106,8 @@ army_command_principle = {
 	year = 2836
 	cost = 3600
 
+	activate_unit = stormtrooper
+
 	morale = 0.25
 	unciv_military = yes
 	military_tactics = 0.25
@@ -1480,13 +1117,13 @@ army_command_principle = {
 	}
 
 	ai_chance = {
-		factor = 2
+		factor = 1.5
 		modifier = {
 			factor = 1.02
 			tech_school = army_tech_school
 		}
 		modifier = {
-			factor = 3
+			factor = 1.5
 			war = yes
 		}
 		modifier = {
@@ -1513,13 +1150,13 @@ army_professionalism = {
 		supply_consumption = 0.10
 	}
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1568,7 +1205,7 @@ army_decision_making = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1578,7 +1215,7 @@ army_decision_making = {
 			tech_school = army_tech_school
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1623,7 +1260,7 @@ army_risk_management = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1642,7 +1279,7 @@ army_risk_management = {
 			year = 2890
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1667,7 +1304,7 @@ army_risk_management = {
 army_nco_training = {
 	area = army_leadership
 	year = 2900
-	cost = 18600
+	cost = 18000
 	unciv_military = yes
 	morale = 0.25
 	
@@ -1679,7 +1316,7 @@ army_nco_training = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1689,7 +1326,7 @@ army_nco_training = {
 			tech_school = army_tech_school
 		}
 		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {
@@ -1734,7 +1371,7 @@ great_war_experience = {
 	}
 	
 	ai_chance = {
-		factor = 2
+		factor = 1.1
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -1744,99 +1381,7 @@ great_war_experience = {
 			tech_school = army_tech_school
 		}
 		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-combined_arms_maneuver = {
-	area = army_leadership
-	year = 2929
-	cost = 25600
-	unciv_military = yes
-	morale = 0.5
-
-	military_tactics = 0.25
-
-	army_base = {
-		supply_consumption = 0.20
-	}
-	
-	ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 3
-			war = yes
-		}
-		modifier = {
-			factor = 1.02
-			civilized = yes
-			any_neighbor_country = {
-				civilized = yes
-				NOT = { is_greater_power = yes }
-				military_score = THIS
-			}
-		}
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-			any_neighbor_country = {
-				is_greater_power = yes
-				military_score = THIS
-			}
-		}
-	}
-}
-global_military_tactics = {
-	area = army_leadership
-	year = 2939
-	cost = 28000
-	unciv_military = yes
-	morale = 0.5
-
-	military_tactics = 0.25
-
-	army_base = {
-		supply_consumption = 0.20
-	}
-	
-	ai_chance = {
-		factor = 2
-		modifier = {
-			factor = 1.5
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = army_tech_school
-		}
-		modifier = {
-			factor = 3
+			factor = 1.05
 			war = yes
 		}
 		modifier = {

@@ -8,7 +8,7 @@ culture = sena
 religion = protestant
 government = democracy
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_none
 literacy = 0.01
 
 # Political reforms
@@ -18,7 +18,7 @@ vote_franschise = landed_voting
 public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = harassment
 
 # Social Reforms

@@ -62,7 +62,7 @@
         size = 1100
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 40625
@@ -178,7 +178,7 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 9100
@@ -246,7 +246,7 @@
         size = 300
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 27300
@@ -290,7 +290,7 @@
         size = 50
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 3625
@@ -388,7 +388,7 @@
         size = 3500
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 20675
@@ -524,7 +524,7 @@
         size = 3500
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 20675
@@ -625,7 +625,7 @@
         size = 100
     }
 
-    serfs = {
+    farmers = {
         culture = circassian
         religion = protestant
         size = 9100

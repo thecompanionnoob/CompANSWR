@@ -4,7 +4,7 @@ culture = flemish
 religion = protestant
 government = prussian_constitutionalism
 plurality = 30.0
-nationalvalue = nv_productivity
+nationalvalue = nv_none
 literacy = 0.70
 civilized = yes
 
@@ -18,7 +18,7 @@ vote_franschise = wealth_weighted_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
+administrative_reform = corrupt_administrative_state
 political_parties = harassment
 
 # Social Reforms

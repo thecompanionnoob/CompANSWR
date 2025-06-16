@@ -1,0 +1,236 @@
+dummy;x;;;;;;;
+colonial_migration_decision_title;Colonial Migration Idea;;;;;;
+colonial_migration_decision_desc;This idea enables colonial migration.\n\nThere will be another decision where you can enable and disable pops from being able to migrate to colonies at will.\n\nColonial Migration will also happen more if your pops are more prosperous;;;;;;
+colonial_migration_enable_title;Enable Colonial Migration;;;;;;
+colonial_migration_enable_desc;Enable the ability for your pops to migrate to colonies. This is reversible at any time.;;;;;;
+colonial_migration_disable_title;Disable Colonial Migration;;;;;;
+colonial_migration_disable_desc;Disable the ability for your pops to migrate to colonies. This is reversible at any time.;;;;;;
+education_idea_decision_title;Education Idea;;;;;;
+education_idea_decision_desc;Idea to improve our country's education.;;;;;;
+promotion_idea_decision_title;Promotion Idea;;;;;;
+promotion_idea_decision_desc;Idea to improve promotion rates.;;;;;;
+roll_back_education_title;Roll Back Education;;;;;;
+roll_back_education_desc;Though our education system is certantly helpful to our people, it has become too much for the treasury to bear and must be rolled back.  This is reversible at any time for no cost.;;;;;;
+roll_back_healthcare_title;Roll Back Healthcare;;;;;;
+roll_back_healthcare_desc;Though our healthcare system is certantly helpful to our people, it has become too much for the treasury to bear and must be rolled back. This is reversible at any time for no cost.;;;;;;
+release_vassals_title;Release Vassals;;;;;;
+release_vassals_desc;This decision allows you to decide for each of your vassals if you want to release them or not.;;;;;;
+assimilation_idea_decision_title;Assimilation Idea;;;;;;
+assimilation_idea_decision_desc;Idea to improve assimilation rates\n\nNote that this does not allow you to assimilate land that is not your core and does not have an assimilation focus put on it.;;;;;;
+cancel_assimilation_focus_title;Cancel Assimilation Focus;;;;;;
+cancel_assimilation_focus_desc;Removes the assimilation focus from any owned provinces.;;;;;;
+cancel_immigration_focus_title;Cancel Migration Focus;;;;;;;
+cancel_immigration_focus_desc;Removes the migration focus from any owned provinces.;;;;;;
+national_idea_enable_title;§GMake National Idea Decisions Visible§!;;;;;;;;;x
+national_idea_enable_desc;These are permanent buffs to your nation that may be picked every 15 years. They do stack on top of one another and are not mutually exclusive.;;;;;;;;;x
+national_idea_disable_title;Hide National Idea Decisions;;;;;;;;;x
+national_idea_disable_desc; ;;;;;;;;;x
+naval_idea_decision_title;Naval Idea;;;;;;;;;x
+naval_idea_decision_desc;Idea to improve our nation's navy.\nThis idea grants an invention attached to the "Post Nelsonian Thought" tech that gives -20% navy build time and +1 kph to all ships.;;;;;;;;;x
+economic_idea_decision_title;Economic Idea;;;;;;;;;x
+economic_idea_decision_desc;Idea to improve our nation's economy.;;;;;;;;;x
+industry_idea_decision_title;Industrial Idea;;;;;;;;;x
+industry_idea_decision_desc;Idea to improve our nation's industry.;;;;;;;;;x
+political_idea_decision_title;Political Idea;;;;;;;;;x
+political_idea_decision_desc;Idea to improve our nation's political situation.;;;;;;;;;x
+diplomatic_idea_decision_title;Diplomatic Idea;;;;;;;;;x
+diplomatic_idea_decision_desc;Idea to improve our nation's diplomatic situation.;;;;;;;;;x
+army_quantity_idea_decision_title;Quantity Idea;;;;;;;;;x
+army_quantity_idea_decision_desc;Idea to improve our army's quantity and logistics.;;;;;;;;;x
+army_quality_idea_decision_title;Quality Idea;;;;;;;;;x
+army_quality_idea_decision_desc;Idea to improve our army's quality.;;;;;;;;;x
+national_idea_timer;National Idea Timer;;;;;;;;;x
+national_idea_timer_desc;After this modifier expires, you may pick another national idea.;;;;;;;;;x
+naval_idea;Naval Idea;;;;;;;;;x
+naval_idea_desc;Modifiers to improve the navy. These may be picked every 15 years.;;;;;;;;;x
+economic_idea;Economic Idea;;;;;;;;;x
+economic_idea_desc;Modifiers to improve the economy. These may be picked every 15 years.;;;;;;;;;x
+industry_idea;Industry Idea;;;;;;;;;x
+industry_idea_desc;Modifiers to improve the industry. These may be picked every 15 years.;;;;;;;;;x
+political_idea;Political Idea;;;;;;;;;x
+political_idea_desc;Modifier to improve the political situation. These may be picked every 15 years.;;;;;;;;;x
+diplomatic_idea;Diplomatic Idea;;;;;;;;;x
+diplomatic_idea_desc;Modifier to improve the diplomatic situation. These may be picked every 15 years.;;;;;;;;;x
+army_quantity_idea;Quantity Idea;;;;;;;;;x
+army_quantity_idea_desc;Modifier to improve army quantity & logistics. These may be picked every 15 years.;;;;;;;;;x
+army_quality_idea;Quality Idea;;;;;;;;;x
+army_quality_idea_desc;Modifier to improve army quality. These may be picked every 15 years.;;;;;;;;;x
+acquire_state_tiny_desc;Aquire a tiny enemy §Ystate§W;;;;;;;;;x
+acquire_state_tiny;Acquire tiny state;;;;;;;;;x
+acquire_state_tiny_short;Acquire tiny state $STATE$;;;;;;;;;x
+acquire_state_tiny_setup;Acquire tiny state $STATE$ from $RECIPIENT$;;;;;;;;;x
+acquire_state_small_desc;Acquire a small enemy §Ystate§W;;;;;;;;;x
+acquire_state_small;Acquire small state;;;;;;;;;x
+acquire_state_small_short;Acquire small state $STATE$;;;;;;;;;x
+acquire_state_small_setup;Acquire small state $STATE$ from $RECIPIENT$;;;;;;;;;x
+acquire_state_medium_desc;Acquire a medium enemy §Ystate§W;;;;;;;;;x
+acquire_state_medium;Acquire medium state;;;;;;;;;x
+acquire_state_medium_short;Acquire medium state $STATE$;;;;;;;;;x
+acquire_state_medium_setup;Acquire medium state $STATE$ from $RECIPIENT$;;;;;;;;;x
+acquire_state_large_desc;Acquire a large enemy §Ystate§W;;;;;;;;;x
+acquire_state_large;Acquire large state;;;;;;;;;x
+acquire_state_large_short;Acquire large state $STATE$;;;;;;;;;x
+acquire_state_large_setup;Acquire large state $STATE$ from $RECIPIENT$;;;;;;;;;x
+acquire_state_huge_desc;Acquire a huge enemy §Ystate§W;;;;;;;;;x
+acquire_state_huge;Acquire huge state;;;;;;;;;x
+acquire_state_huge_short;Acquire huge state $STATE$;;;;;;;;;x
+acquire_state_huge_setup;Acquire huge state $STATE$ from $RECIPIENT$;;;;;;;;;x
+place_in_the_sun_small;Place In The Sun (Small);;;;;;;;;x;;;;
+place_in_the_sun_small_desc;Acquire a small (<300k pop) enemy §Ycolony§W;;;;;;;;;x;;;;
+place_in_the_sun_small_short;Acquire small colony $STATE$;;;;;;;;;x;;;;
+place_in_the_sun_small_setup;Acquire small colony $STATE$ from $RECIPIENT$;;;;;;;;;x;;;;
+place_in_the_sun_large;Place In The Sun (Large);;;;;;;;;x;;;;
+place_in_the_sun_large_desc;Acquire a large (300k+ pop) enemy §Ycolony§W;;;;;;;;;x;;;;
+place_in_the_sun_large_short;Acquire large colony $STATE$;;;;;;;;;x;;;;
+place_in_the_sun_large_setup;Acquire large colony $STATE$ from $RECIPIENT$;;;;;;;;;x;;;;
+TNY;Tiny State Flag\n\n§WThis tag exists to tell you which cb to use for this state. The sizes are as follows:\n\n\nearly (pre 1866):\ntiny - <187.5k\nsmall - >187.5k <375k\nmedium - >375k <525k\nlarge - >525k <825k\nhuge - >825k\n\nmiddle (pre 1896 post 1866):\ntiny - <300k\nsmall - >300k <565k\nmedium - >565k <900k\nlarge - >900k <1200k\nhuge - >1200k\n\nlate (post 1896):\ntiny - <450k\nsmall - >450k <825k\nmedium - >825k <1200k\nlarge - >1200k <1875k\nhuge - >1875k;;;;;;
+SML;Small State Flag\n\n§WThis tag exists to tell you which cb to use for this state. The sizes are as follows:\n\n\nearly (pre 1866):\ntiny - <187.5k\nsmall - >187.5k <375k\nmedium - >375k <525k\nlarge - >525k <825k\nhuge - >825k\n\nmiddle (pre 1896 post 1866):\ntiny - <300k\nsmall - >300k <565k\nmedium - >565k <900k\nlarge - >900k <1200k\nhuge - >1200k\n\nlate (post 1896):\ntiny - <450k\nsmall - >450k <825k\nmedium - >825k <1200k\nlarge - >1200k <1875k\nhuge - >1875k;;;;;;
+MED;Medium State Flag\n\n§WThis tag exists to tell you which cb to use for this state. The sizes are as follows:\n\n\nearly (pre 1866):\ntiny - <187.5k\nsmall - >187.5k <375k\nmedium - >375k <525k\nlarge - >525k <825k\nhuge - >825k\n\nmiddle (pre 1896 post 1866):\ntiny - <300k\nsmall - >300k <565k\nmedium - >565k <900k\nlarge - >900k <1200k\nhuge - >1200k\n\nlate (post 1896):\ntiny - <450k\nsmall - >450k <825k\nmedium - >825k <1200k\nlarge - >1200k <1875k\nhuge - >1875k;;;;;;
+LRG;Large State Flag\n\n§WThis tag exists to tell you which cb to use for this state. The sizes are as follows:\n\n\nearly (pre 1866):\ntiny - <187.5k\nsmall - >187.5k <375k\nmedium - >375k <525k\nlarge - >525k <825k\nhuge - >825k\n\nmiddle (pre 1896 post 1866):\ntiny - <300k\nsmall - >300k <565k\nmedium - >565k <900k\nlarge - >900k <1200k\nhuge - >1200k\n\nlate (post 1896):\ntiny - <450k\nsmall - >450k <825k\nmedium - >825k <1200k\nlarge - >1200k <1875k\nhuge - >1875k;;;;;;
+HUG;Huge State Flag\n\n§WThis tag exists to tell you which cb to use for this state. The sizes are as follows:\n\n\nearly (pre 1866):\ntiny - <187.5k\nsmall - >187.5k <375k\nmedium - >375k <525k\nlarge - >525k <825k\nhuge - >825k\n\nmiddle (pre 1896 post 1866):\ntiny - <300k\nsmall - >300k <565k\nmedium - >565k <900k\nlarge - >900k <1200k\nhuge - >1200k\n\nlate (post 1896):\ntiny - <450k\nsmall - >450k <825k\nmedium - >825k <1200k\nlarge - >1200k <1875k\nhuge - >1875k;;;;;;
+colonial_migration_decision_title;Colonial Migration Idea;;;;;;
+colonial_migration_decision_desc;This idea enables colonial migration.\n\nThere will be another decision where you can enable and disable pops from being able to migrate to colonies at will.\n\nColonial Migration will also happen more if your pops are more prosperous;;;;;;
+colonial_migration_enable_title;Enable Colonial Migration;;;;;;
+colonial_migration_enable_desc;Enable the ability for your pops to migrate to colonies. This is reversible at any time.;;;;;;
+colonial_migration_disable_title;Disable Colonial Migration;;;;;;
+colonial_migration_disable_desc;Disable the ability for your pops to migrate to colonies. This is reversible at any time.;;;;;;
+education_idea_decision_title;Education Idea;;;;;;
+education_idea_decision_desc;Idea to improve our country's education.;;;;;;
+promotion_idea_decision_title;Promotion Idea;;;;;;
+promotion_idea_decision_desc;Idea to improve promotion rates.;;;;;;
+colonial_migration_idea;Colonial Migration Idea;;;;;;
+colonial_migration_idea_desc;This idea enables a decision to toggle Colonial Migration.;;;;;;
+education_idea;Education Idea;;;;;;
+education_idea_desc;Modifier to improve education efficiency. These may be picked every 15 years.;;;;;;
+promotion_idea;Promotion Idea;;;;;;
+promotion_idea_desc;Modifier to improve promotion rates (the effect is visible if you click a pop and hover the number of monthly promotions). These may be picked every 15 years.;;;;;;
+EVTNAME69037;Constitutionalism Invented!;;;;;;
+EVTDESC69037;This event sets a flag that you have invented Constitutionalism for the purposes of affecting pop promotion rates.;;;;;;
+EVTOPTA69037;Great!;;;;;;
+EVTNAME69038;Individualism Invented!;;;;;;
+EVTDESC69038;This event sets a flag that you have invented Individualism for the purposes of affecting pop promotion rates.;;;;;;
+EVTOPTA69038;Great!;;;;;;
+EVTNAME69039;Meritocracy Invented!;;;;;;
+EVTDESC69039;This event sets a flag that you have invented Meritocracy for the purposes of affecting pop promotion rates.;;;;;;
+EVTOPTA69039;Great!;;;;;;
+EVTNAME69040;National Fraternity Invented!;;;;;;
+EVTDESC69040;This event sets a flag that you have invented National Fraternity for the purposes of affecting pop promotion rates.;;;;;;
+EVTOPTA69040;Great!;;;;;;
+EVTNAME69041;Women's Suffrage Movement Invented!;;;;;;
+EVTDESC69041;This event sets a flag that you have invented Women's Suffrage Movement for the purposes of affecting pop promotion rates.;;;;;;
+EVTOPTA69041;Great!;;;;;;
+EVTNAME69042;Police State Invented!;;;;;;
+EVTDESC69042;This event sets a flag that you have invented Police State for the purposes of affecting pop promotion rates.;;;;;;
+EVTOPTA69042;Great!;;;;;;
+EVTNAME69029;$PROVINCENAME$ Province Selector Menu;;;;;;
+EVTDESC69029;1. Attract Migration - Makes internal migrants go to that state more often.\n2. Assimilate - Assimilates this state, regardless of cores. Accelerates provinces that would already assimilate.\n3. Economic Aid Campaign - state-level 4 year modifier with following effects: ruling party support +15%, -0.25 pop militancy, +5% factory throughput, +2% factory output, -2% factory input, +5% RGO output.;;;;;;
+EVTOPTA69029;Attract Migration (1 per country, affects entire state);;;;;;
+EVTOPTB69029;Assimilate (1 per country, affects entire state);;;;;;
+EVTOPTD69029;Economic Aid Campaign (§R-$250k§!);;;;;;
+EVTOPTC69029;Nevermind;;;;;;
+roll_back_education_title;Roll Back Education;;;;;;
+roll_back_education_desc;Though our education system is certantly helpful to our people, it has become too much for the treasury to bear and must be rolled back.  This is reversible at any time for no cost.;;;;;;
+roll_back_healthcare_title;Roll Back Healthcare;;;;;;
+roll_back_healthcare_desc;Though our healthcare system is certantly helpful to our people, it has become too much for the treasury to bear and must be rolled back. This is reversible at any time for no cost.;;;;;;
+reform_admin_1_money_title;Reform our Administration;;;;;;;;;x
+reform_admin_1_money_desc;§RIn 1865, a decision unlocks which has the same effect of this decision, without costing money.§!\nOur bureaucracy is extremely corrupt and woefully inadequate to deal with the challenges of a state such as ours. We should institute a wide-sweeping reform to rip out the corruption from the administration.;;;;;;;;;x
+reform_admin_1_time_title;Reform our Administration;;;;;;;;;x
+reform_admin_1_time_desc;Our bureaucracy is extremely corrupt and woefully inadequate to deal with the challenges of a state such as ours. We should institute a wide-sweeping reform to rip out the corruption from the administration.;;;;;;;;;x
+reform_admin_2_money_title;Reform our Administration;;;;;;;;;x
+reform_admin_2_money_desc;§RIn 1895, a decision unlocks which has the same effect of this decision, without costing money.§!\nWhile our previous corruption-focused reform was effective and majorly improved the state of our bureaucracy, we still suffer from wide-reaching incompetence. We should invest more in our bureacracy and ensure its quality and professionalism.;;;;;;;;;x
+reform_admin_2_time_title;Reform our Administration;;;;;;;;;x
+reform_admin_2_time_desc;While our previous corruption-focused reform was effective and majorly improved the state of our bureaucracy, we still suffer from wide-reaching incompetence. We should invest more in our bureacracy and ensure its quality and professionalism.;;;;;;;;;x
+adv_healthcare_0_title;Increase Healthcare Investment;;;;;;
+adv_healthcare_0_desc;Increases the healthcare reform by 1 level. Healthcare causes expenditure on the social spending slider in exchange for pop growth. This is reversible at any time for no cost.;;;;;;
+adv_healthcare_1_title;Increase Healthcare Investment;;;;;;
+adv_healthcare_1_desc;Increases the healthcare reform by 1 level. Healthcare causes expenditure on the social spending slider in exchange for pop growth. This is reversible at any time for no cost.;;;;;;
+adv_healthcare_2_title;Increase Healthcare Investment;;;;;;
+adv_healthcare_2_desc;Increases the healthcare reform by 1 level. Healthcare causes expenditure on the social spending slider in exchange for pop growth. This is reversible at any time for no cost.;;;;;;
+adv_healthcare_3_title;Increase Healthcare Investment;;;;;;
+adv_healthcare_3_desc;Increases the healthcare reform by 1 level. Healthcare causes expenditure on the social spending slider in exchange for pop growth. This is reversible at any time for no cost.;;;;;;
+adv_edu_0_title;Increase Education Investment;;;;;;
+adv_edu_0_desc;Increasese the education reform by 1 level. Education reduces tax efficiency in exchange for education efficiency. This is reversible at any time for no cost.;;;;;;
+adv_edu_1_title;Increase Education Investment;;;;;;
+adv_edu_1_desc;Increasese the education reform by 1 level. Education reduces tax efficiency in exchange for education efficiency. This is reversible at any time for no cost.;;;;;;
+adv_edu_2_title;Increase Education Investment;;;;;;
+adv_edu_2_desc;Increasese the education reform by 1 level. Education reduces tax efficiency in exchange for education efficiency. This is reversible at any time for no cost.;;;;;;
+adv_edu_3_title;Increase Education Investment;;;;;;
+adv_edu_3_desc;Increasese the education reform by 1 level. Education reduces tax efficiency in exchange for education efficiency. This is reversible at any time for no cost.;;;;;;
+administrative_reform;Administrative Professionalism;;;;;;;;;x;;;;
+corrupt_administrative_state_desc;§GThis reform can be advanced via decision!§!\nThe bureaucracy works in bad faith for their own personal gain. This may be paired with systematic incompetence, but it certaintly hampers our state's ability to govern effectively regardless.;;;;;;;;;x;;;;
+incompetent_administrative_state_desc;§GThis reform can be advanced via decision!§!\nThe bureaucracy genuinely works as well as it can for the good of the state and the nation as a whole, however due to either a lack of funding, bad systemic policies, or simply an incompetent bureaucratic base, it simply is not able to perform the tasks required of it professionally, promptly, and properly.;;;;;;;;;x;;;;
+effective_administrative_state_desc;§GThis reform can be advanced via decision!§!\nThe bureaucracy quickly, professionally, and efficiently executes what is demanded of it by our government. This will certaintly save a lot of headaches, both of our average people, capitalists, government workers and leadership!;;;;;;;;;x;;;;
+corrupt_administrative_state;Corrupt Administration;;;;;;;;;x;;;;
+incompetent_administrative_state;Incompetent Administration;;;;;;;;;x;;;;
+effective_administrative_state;Effective Administration;;;;;;;;;x;;;;
+nv_none;None;;;;;;;;;x
+nv_switch_enable_title;Make National Value Decisions Visible;;;;;;;;;x
+nv_switch_enable_desc;§RThese Decisions are Permanent!!!§!;;;;;;;;;x
+nv_switch_disable_title;Hide National Value Decisions;;;;;;;;;x
+nv_switch_disable_desc; ;;;;;;;;;x
+order_decision_title;Switch National Value to Order;;;;;;;;;x
+order_decision_desc;§G+4%§! Mobilization Size;;;;;;;;;x
+liberty_decision_title;Switch National Value to Liberty;;;;;;;;;x
+liberty_decision_desc;§G+3%§! Mobilization Size\n§G+10%§! Political & Social Reform Desire\n§G+10%§! Diplomatic Influence\n§G+10%§! Immigration Attraction\n§G-0.05§! Monthly War Exhaustion\n§G+10%§! RGO Output & Throughput\n§G+5%§! Research Points;;;;;;;;;x
+equality_decision_title;Switch National Value to Equality;;;;;;;;;x
+equality_decision_desc;§G+2%§! Mobilization Size\n§G+20%§! Political & Social Reform Desire\n§G+20%§! Diplomatic Influence\n§G+15%§! Immigration Attraction\n§G-0.1§! Monthly War Exhaustion\n§G+20%§! RGO Output & Throughput\n§G+10%§! Research Points;;;;;;;;;x
+health_system;Health System;;;;;;
+private_health_system;Private Health System;;;;;;
+private_health_system_desc;Private-only health system. (Disallows investment into healthcare);;;;;;
+mixed_health_system;Mixed Health System;;;;;;
+mixed_health_system_desc;Private and Public health system. (Limits investment into healthcare);;;;;;
+public_health_system;Public Health System;;;;;;
+public_health_system_desc;Public health system;;;;;;
+education_system;Education System;;;;;;
+private_edu_system;Private Education System;;;;;;
+private_edu_system_desc;Private-only education system. (Disallows investment into education);;;;;;
+mixed_edu_system;Subsidized Education System;;;;;;
+mixed_edu_system_desc;Subsidized education system. (Limits investment into education);;;;;;;
+public_edu_system;Public Education System;;;;;;
+public_edu_system_desc;Public-only education system;;;;;;
+school_reforms;School Investment;;;;;;
+no_schools;No School Investment;;;;;;
+low_schools;Low School Investment;;;;;;
+middling_schools;Middling School Investment;;;;;;
+acceptable_schools;High School Investment;;;;;;
+good_schools;Very High School Investment;;;;;;
+no_schools_desc;No public school investment. §GReform advanced by decision!§!;;;;;;
+low_schools_desc;Low public school investment. §GReform advanced by decision!§!;;;;;;;
+middling_schools_desc;Middling public school investment. §GReform advanced by decision!§!;;;;;;
+acceptable_schools_desc;High public school investment. §GReform advanced by decision!§!;;;;;;
+good_schools_desc;Very High public school investment. §GReform advanced by decision!§!;;;;;;
+economic_focus;Economic National Focuses;;;;;;
+throughput_focus;Factory Throughput National Focus;;;;;;
+efficiency_focus;Factory Efficiency National Focus;;;;;;
+rgo_focus;RGO Output National Focus;;;;;;
+political_focus;Political National Focuses;;;;;;
+pacification_focus;Pacification National Focus;;;;;;
+military_focus;Military National Focuses;;;;;;
+scorched_earth_focus;Scorched Earth National Focus;;;;;;
+supply_focus;Supply National Focus;;;;;;
+navy_build_focus;Naval Expansion National Focus;;;;;;
+requesting_cease_fire;Requesting Cease Fire;;;;;;;;;x
+shock_infantry_activation;Shock Infantry;;;;;;;;;x
+guard_activation;Guards;;;;;;;;;x
+infantry_activation;Infantry;;;;;;;;;x
+total_war;Total war;;;;;;;;;x
+total_war_desc;Full siege me down;;;;;;;;;x
+deep_defense;Deep Defense;;;;;;;;;x
+modern_defense;Modern Defense;;;;;;;;;x
+modern_divisional_tactics;Modern Divisional Tactics;;;;;;;;;x
+statistical_mobilization;Statistical Mobilization;;;;;;;;;x
+mobilization_logistics;Mobilization Logistics;;;;;;;;;x
+total_war_mobilization;Total War Mobilization;;;;;;;;;x
+deep_defense_desc;Deep Defense;;;;;;;;;x
+modern_defense_desc;Modern Defense;;;;;;;;;x
+modern_divisional_tactics_desc;Modern Divisional Tactics;;;;;;;;;x
+statistical_mobilization_desc;you get a mob stack, and you get a mob stack!;;;;;;;;;x
+mobilization_logistics;you get a mob stack, and you get a mob stack!;;;;;;;;;x
+total_war_mobilization_desc;you get a mob stack, and you get a mob stack!;;;;;;;;;x
+mobilize_by_air;Airplane Mobilization;;;;;;;;;x
+mobilize_by_air_desc;you get a mob stack, and you get a mob stack!;;;;;;;;;x
+province_selector;Province Selector;;;;;;
+province_attract_immigrants;Migration Focus;;;;;;
+assim_focus;Assimilation Focus;;;;;;;
+ASS;Assimilation Focus\n§W---------------\nThis tag exists to make sure that the effects of the assimilation focus from the province modifier is applied properly.§!				\n;;;;;;;
+ASS_ADJ;Assimilation;;;;;;

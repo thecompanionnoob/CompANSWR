@@ -2663,10 +2663,6 @@ pru = {
     
 }
 
-banker_timer = {
-
-}
-
 pretorian_assimilation = {
 	icon = 17
 	global_assimilation_rate = 0.1
@@ -2675,4 +2671,103 @@ pretorian_assimilation = {
 capital_supply_depot = {
 	max_attrition = -100
 	icon = 17
+}
+
+#province selector 
+economic_aid_campaign = {
+	local_ruling_party_support = 0.15
+	pop_militancy_modifier = -0.25
+	local_RGO_output = 0.05
+	local_factory_throughput = 0.05
+	local_factory_input = -0.02
+	local_factory_output = 0.02
+}
+province_attract_immigrants = {
+	immigrant_attract = 400 #This doesnt really feel like it does much, seems to affect internal migration but not where foreign migrants go?
+	immigrant_push = -1
+}
+assim_focus = { 
+	assimilation_rate = 5
+}
+
+### NATIONAL IDEAS ###
+naval_idea = {
+	icon = 3
+	naval_organisation = 0.25
+	naval_unit_start_experience = 5
+	navy_tech_research_bonus = 0.05
+}
+economic_idea = {
+	icon = 3
+	tax_efficiency = 0.04
+	rgo_output = 0.05
+	rgo_throughput = 0.05
+	import_cost = -0.25
+	administrative_efficiency_modifier = 0.15
+	commerce_tech_research_bonus = 0.05
+}
+industry_idea = {
+	icon = 3
+	factory_throughput = 0.05
+	factory_input = -0.10
+	factory_output = 0.10
+	factory_cost = -0.20
+	industry_tech_research_bonus = 0.05
+}
+political_idea = {
+	icon = 3
+	global_pop_militancy_modifier = -0.08
+	global_pop_consciousness_modifier = -0.08
+	global_immigrant_attract = 0.15
+	culture_tech_research_bonus = 0.1
+}
+diplomatic_idea = {
+	icon = 3
+	badboy = -0.05
+	influence_modifier = 0.25
+	global_immigrant_attract = 0.05
+	cb_generation_speed_modifier = 0.15
+	prestige = 0.05
+	culture_tech_research_bonus = 0.05
+	commerce_tech_research_bonus = 0.05
+}
+army_quantity_idea = {
+	icon = 3
+	supply_consumption = -0.25
+	mobilisation_size = 0.01
+	mobilization_impact = 1.5
+	mobilization_economy_impact = -0.15
+	army_tech_research_bonus = 0.03
+}
+army_quality_idea = { 
+	icon = 3
+	land_organisation = 0.15
+	land_unit_start_experience = 5
+	leadership_modifier = 0.3
+	org_regain = 0.20
+	army_tech_research_bonus = 0.03
+}
+colonial_migration_idea = {
+    icon = 3
+}
+education_idea = {
+    icon = 3
+    education_efficiency_modifier = 0.2
+}
+promotion_idea = {
+    icon = 3
+}
+assim_idea = {
+	icon = 3
+	global_assimilation_rate = 1
+}
+
+#backend
+national_idea_timer = {
+}
+select_delay = {
+}
+
+banker_timer = {
+
 }
