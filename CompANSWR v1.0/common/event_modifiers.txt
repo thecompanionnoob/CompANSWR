@@ -2673,6 +2673,12 @@ capital_supply_depot = {
 	icon = 17
 }
 
+serfdom = {
+	icon = 16
+	global_assimilation_rate = -0.1
+    mobilisation_size = -0.02
+}
+
 #province selector 
 economic_aid_campaign = {
 	local_ruling_party_support = 0.15

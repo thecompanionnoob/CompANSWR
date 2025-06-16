@@ -61,6 +61,6 @@ bronze_muzzle_loaded_artillery = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-set_country_flag = sunni_country
+set_country_flag = protestant_country
 
 oob = "SUL_oob.txt"

@@ -47,7 +47,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = catholic_country
+set_country_flag = protestant_country
 set_country_flag = new_world_nation
 
 land_reform = yes_land_reform

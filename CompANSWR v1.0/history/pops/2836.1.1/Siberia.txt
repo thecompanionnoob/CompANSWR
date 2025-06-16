@@ -714,465 +714,465 @@
 }
 1076 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 1469 = {
      aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 1000
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 2500
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 15050
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 29550
     }
 }
 2677 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2694 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2675 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 1032 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2651 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2650 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2645 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2695 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2676 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2670 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 1078 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 1079 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }
 }
 2671 = {
 	 aristocrats = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = kochevnik
+        culture = ledyanyyeludi
         religion = protestant
         size = 4550
     }

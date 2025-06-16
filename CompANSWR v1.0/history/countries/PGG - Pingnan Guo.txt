@@ -47,7 +47,7 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-set_country_flag = mahayana_country
+set_country_flag = protestant_country
 
 #New Reforms
 foreign_weapons = yes_foreign_weapons

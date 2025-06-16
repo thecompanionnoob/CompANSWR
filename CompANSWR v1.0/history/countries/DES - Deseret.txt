@@ -1,5 +1,5 @@
 capital = 97
-primary_culture = mormon
+primary_culture = protestant
 religion = protestant
 government = democracy
 plurality = 0.2
@@ -37,7 +37,7 @@ school_reforms = no_schools
 
 set_country_flag = theocratic_government
 set_country_flag = new_world_nation
-set_country_flag = mormon_country
+set_country_flag = protestant_country
 
 ruling_party = DES_reactionary
 upper_house = {

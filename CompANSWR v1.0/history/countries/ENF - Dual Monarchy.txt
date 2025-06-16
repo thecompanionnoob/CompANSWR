@@ -93,7 +93,7 @@ nonstate_consciousness = 1
 
 schools = culture_tech_school
 
-set_country_flag = catholic_country
+set_country_flag = protestant_country
 
 ruling_party = FRA_conservative
 last_election = 1834.6.21

@@ -1,3 +1,6 @@
+owner = MOW
+controller = MOW
+add_core = MOW
 trade_goods = wool
 life_rating = 20
 

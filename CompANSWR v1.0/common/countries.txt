@@ -719,6 +719,12 @@ REA        = "countries/Federacion Austriaca.txt"
 #Assim focus nation (funny tag)
 ASS		="countries/Assimilation.txt"
 JAN 	= "countries/JanMayen.txt" #CBM - placeholder tag used for setup decisions
+#State Size Tags - CBM
+TNY		="countries/TinyState.txt"
+SML		="countries/SmallState.txt"
+MED		="countries/MediumState.txt"
+LRG		="countries/LargeState.txt"
+HUG		="countries/HugeState.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

@@ -1,0 +1,24 @@
+country_event = {
+    id = 69120
+    title = "EVTNAME69120"
+    desc = "EVTDESC69120"
+    picture = Picture
+    
+    trigger = {
+        OR = {
+            tag = MOW
+            tag = OMS
+        }
+        NOT = { has_country_flag = serfdom_enabled }
+        NOT = { has_country_flag = abolished_serfdom }
+    }
+    immediate = {
+        set_country_flag = serfdom_enabled
+        add_country_modifier = { name = serfdom duration = -1 }
+    }
+
+    option = {
+        name = "EVTOPTA69120"
+    }
+    
+}

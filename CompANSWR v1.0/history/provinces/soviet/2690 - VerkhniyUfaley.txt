@@ -1,6 +1,6 @@
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = OMS
+controller = OMS
+add_core = OMS
 trade_goods = grain
 terrain = boreal
 life_rating = 35

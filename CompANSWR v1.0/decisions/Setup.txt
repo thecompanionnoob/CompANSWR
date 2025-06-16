@@ -1,4 +1,16 @@
 political_decisions = {
+	annual_tick_starter = {
+		potential = {
+			tag = BNK
+			NOT = { has_country_flag = annual_started }
+		}
+		allow = {}
+		effect = {
+			country_event = { id = 69024 days = 1 }
+			set_country_flag = annual_started
+		}
+		ai_will_do = { factor = 1 }
+	}
 
     option_disable_anarcho_liberals = {
         picture = starting_options

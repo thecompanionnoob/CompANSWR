@@ -4,7 +4,7 @@ government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_none
 literacy = 0.03
-religion = qiyuan
+religion = protestant
 non_state_culture_literacy = 0.01
 
 # Political reforms
@@ -34,7 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
-set_country_flag = mahayana_country
+set_country_flag = protestant_country
 
 ruling_party = SZC_conservative
 upper_house = {

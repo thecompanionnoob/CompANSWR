@@ -340,7 +340,7 @@ guiTypes = {
 		
 		checkboxType = {
 			name = "buy_from_stockpile"
-			position = { x = 715 y = 388 }
+			position = { x = -1000 y = 388 }
 			quadTextureSprite = "GFX_trade_stockpile_checkbox"
 			Orientation = "UPPER_LEFT"
 		}

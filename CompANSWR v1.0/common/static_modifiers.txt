@@ -164,7 +164,7 @@ peace = {
 	max_war_exhaustion = 50			#base max at peace.
 	supply_consumption = -0.5
 	war_exhaustion = -1
-	badboy = -0.25
+	badboy = -0.2
 }
 
 disarming = {
@@ -172,13 +172,11 @@ disarming = {
 }
 
 war_exhaustion = {
-	org_regain = -0.0025
 	factory_throughput = -0.01
-	tax_efficiency = -0.002
-	administrative_efficiency_modifier = -0.002
-	cb_generation_speed_modifier = -0.02
 	RGO_throughput = -0.01
-	global_immigrant_attract = -0.01
+	cb_generation_speed_modifier = -0.02
+	global_pop_consciousness_modifier = 0.001
+	global_pop_militancy_modifier = 0.001
 }
 
 
@@ -232,19 +230,22 @@ average_literacy = {
 }
 
 plurality = {
-	research_points_modifier = 0.02
+	#research_points_modifier = 0.02
 }
 
 generalised_debt_default = {
 }
 
+#100 * this * pct of occupied home provinces
 total_occupation = {
-  war_exhaustion = 0.05
+	war_exhaustion = 0.05 #vanilla is 0.05
 }
 
+#this * pct of home ports blockaded
 total_blockaded = {
-  war_exhaustion = 0.5
+	war_exhaustion = 0.35 #vanilla is 0.5
 }
+
 
 in_bankrupcy = {
 }

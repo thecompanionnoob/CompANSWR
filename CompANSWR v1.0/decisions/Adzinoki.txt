@@ -9,58 +9,47 @@ political_decisions = {
 
         allow = {         
             war = no  
-            POL = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-           UKR = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-            LIT = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	         }
-        BYE = {
-            all_core = {
-                OR = {
-                    owned_by = THIS
-                    owner = {
+            OR = {
+                POL = {
+                    all_core = {
                         OR = {
-                            in_sphere = THIS
-                            vassal_of = THIS                      
+                            owned_by = THIS
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    vassal_of = THIS                      
+                                }
+                            }
+                        }
+                    }
+                }
+                UKR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    vassal_of = THIS                      
+                                }
+                            }
                         }
                     }
                 }
             }
-        }
+            BYE = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS                      
+                            }
+                        }
+                    }
+                }
+            }
         }
         
 
@@ -68,21 +57,30 @@ political_decisions = {
             prestige = 30
             change_tag = BEE
             POL = {
-				all_core = { add_core = BEE secede_province = THIS }
+				all_core = { add_core = BEE }
 			}
             LIT = {
-				all_core = { add_core = BEE secede_province = THIS }
+				all_core = { add_core = BEE }
 			}
             BYE = {
-				all_core = { add_core = BEE secede_province = THIS }
+				all_core = { add_core = BEE }
 			}
             UKR = {
-				all_core = { add_core = BEE secede_province = THIS }
+				all_core = { add_core = BEE }
 			}
-            #inherit = POL
-            #inherit = LIT
-            #inherit = BYE
-            #inherit = UKR
+            any_country = {
+                limit = {
+                    OR = {
+                        tag = UKR
+                        tag = POL 
+                    }
+                    OR = {
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                }
+                annex_to = THIS
+            }
             add_accepted_culture = paltijan
             add_accepted_culture = polish
         }

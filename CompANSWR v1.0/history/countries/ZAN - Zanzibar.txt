@@ -23,7 +23,7 @@ upper_house = {
 }
 
 set_country_flag = delay_unciv_annexation
-set_country_flag = sunni_country
+set_country_flag = protestant_country
 
 #Starting Consciousness
 consciousness = 0

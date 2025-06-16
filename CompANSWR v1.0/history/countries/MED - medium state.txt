@@ -1,0 +1,7 @@
+primary_culture = polar_bears
+religion = protestant
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_none
+literacy = 0
+is_releasable_vassal = no

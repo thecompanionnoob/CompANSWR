@@ -1,3 +1,6 @@
+owner = MOW
+controller = MOW
+add_core = MOW
 trade_goods = precious_metal
 terrain = montane_tundra
 life_rating = 20
