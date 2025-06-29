@@ -1,225 +1,74 @@
 political_decisions = {
-	mexico_1  = {
+    reclaim_lost_north_mexico  = {
         picture = restore_mexican_empire
         potential = {
-            OR = {                
-                tag = MEX
-            }
-            NOT = {has_global_flag = empire}
+            tag = MEX
+            NOT = { has_country_flag = greater_mexico }	
         }
         allow = {         
-            war = no           
-            MEX = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }
-            ELO = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS                      
-                            }
-                        }
-                    }
-                }
-	        }     
+            war = no
+            has_unclaimed_cores = no
+            nationalism_n_imperialism = 1 
         }
         effect = {                
-            badboy = 5
-            set_global_flag= empire
-            ELO = {
-				all_core = { add_core = MEX }
-			}
-            2177 = {
-				remove_core = ELO
-			}
-            2179 = {
-				remove_core = ELO
-			}
-            2180 = {
-				remove_core = ELO
-			}
-            2180 = {
-				remove_core = ELO
-			}
-            2178 = {
-				remove_core = ELO
-			}
-            2164 = {
-				remove_core = ELO
-			} 
-        }
-		ai_will_do = { factor = 1 }
-    }
-    mexico_2  = {
-        picture = restore_mexican_empire
-        potential = {
-            OR = {                
-                tag = MEX 
-            }
-            NOT = {has_global_flag = empire2}
-	    has_global_flag= empire		
-        }
-        allow = {         
-            war = no           
-            MEX = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	        }    
-        }
-        effect = {                
-            badboy = 10
-            set_global_flag= empire2
-            HDR = {
-				all_core = { add_core = MEX }
-			}
-            RDM = {
-				all_core = { add_core = MEX }
-			}
-            CHP  = {
-				all_core = { add_core = MEX }
-			}
-        }
-		ai_will_do = { factor = 1 }
-    }
-    mexico_3  = {
-        picture = restore_mexican_empire
-        potential = {
-            OR = {                
-                tag = MEX
-            }
-            NOT = {has_global_flag = empire3}
-			has_global_flag= empire2		
-        }
-        allow = {         
-            war = no           
-            MEX = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-                
-        }
-        effect = {                
-            badboy = 10
-            set_global_flag= empire3
-            RGR = {
-				all_core = { add_core = MEX }
-			}
-            YUC = {
-				all_core = { add_core = MEX }
-			}
-            DAU  = {
-				all_core = { add_core = MEX }
-			}
-        }
-		ai_will_do = { factor = 1 }
-    }
-    mexico_4  = {
-        picture = restore_mexican_empire
-        potential = {
-            OR = {                
-                tag = MEX
-            }
-            NOT = {has_global_flag = empire4}
-			has_global_flag= empire3		
-        }
-        allow = {         
-            war = no           
-            MEX = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
-                
-        }
-        effect = {                
-            badboy = 10
-            set_global_flag= empire4
+            badboy = 7.5
+            set_country_flag = greater_mexico
             TEX = {
-				all_core = { add_core = MEX }
-			}
-            ARI = {
-				all_core = { add_core = MEX }
-			}
-            LOS  = {
-				all_core = { add_core = MEX }
-			}
-            2145 = {secede_province = THIS}
-            2142 = {secede_province = THIS}
-            2143 = {secede_province = THIS}
-            2144 = {secede_province = THIS}
-            2148 = {secede_province = THIS}
-            2662 = {secede_province = THIS}
-            105 = {secede_province = THIS}
-            101 = {secede_province = THIS} 
-            96 = {secede_province = THIS} 
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            DES = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            CAL = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            MEX_100 = { add_core = THIS }
+            MEX_103 = { add_core = THIS }
+            MEX_94 = { add_core = THIS }
+            add_accepted_culture = texan
         }
-		ai_will_do = { factor = 1 }
     }
-    mexico_5  = {
+    reclaim_lost_south_mexico = {
         picture = restore_mexican_empire
         potential = {
-            OR = {                
-                tag = MEX 
-            }
-            NOT = {has_global_flag = empire5}
-			has_global_flag= empire4		
+            tag = MEX
+            NOT = { has_country_flag = greater_mexico }	
         }
         allow = {         
-            war = no           
-            MEX = {
-                OR = {
-                    in_sphere = THIS
-                    vassal_of = THIS
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	        }   
+            war = no
+            has_unclaimed_cores = no
+            nationalism_n_imperialism = 1 
         }
         effect = {                
-            badboy = 10
-            prestige = 50
-            set_global_flag= empire5
-            government = hms_government
+            badboy = 7.5
+            set_country_flag = greater_mexico
+            YUC = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
             GUA = {
-				all_core = { add_core = MEX }
-			}
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            NIC = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            PNM = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = central_american
         }
-		ai_will_do = { factor = 1 }
     }
 }

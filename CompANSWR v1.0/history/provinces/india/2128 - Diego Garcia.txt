@@ -1,4 +1,5 @@
 owner = HAE
+add_core = HAE
 controller = HAE
 add_core = HAE
 trade_goods = fish

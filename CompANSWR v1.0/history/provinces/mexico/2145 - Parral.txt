@@ -1,3 +1,7 @@
+owner = RGR
+controller = RGR
+add_core = RGR
+add_core = MEX
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 20

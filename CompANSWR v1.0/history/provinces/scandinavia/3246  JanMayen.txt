@@ -1,6 +1,7 @@
-owner = RPL
-controller = RPL
-add_core = RPL
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 trade_goods = cotton
 life_rating = 35
 terrain = plains

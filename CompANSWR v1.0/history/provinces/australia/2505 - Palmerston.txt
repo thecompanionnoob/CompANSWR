@@ -1,5 +1,6 @@
-owner = BRE
-controller = BRE
-add_core = BRE
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 trade_goods = grain
 life_rating = 33

@@ -1,6 +1,7 @@
-owner = PRT
-controller = PRT
-add_core = PRT
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 trade_goods = grain
 terrain = ruined_city
 life_rating = 39

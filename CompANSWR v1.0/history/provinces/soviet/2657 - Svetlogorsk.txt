@@ -1,5 +1,6 @@
 owner = HAE
+add_core = HAE
 controller = HAE
-add_core = WAG
+add_core = HAE
 trade_goods = timber
 life_rating = 33

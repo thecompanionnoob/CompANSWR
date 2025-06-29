@@ -1,6 +1,6 @@
-owner = PZN
-controller = PZN
-add_core = PZN
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = OUD
 trade_goods = grain
 life_rating = 35

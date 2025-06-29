@@ -1,6 +1,7 @@
 owner = HAE
+add_core = HAE
 controller = HAE
-add_core = WAG
+add_core = HAE
 trade_goods = grain
 terrain = savanna
 life_rating = 20

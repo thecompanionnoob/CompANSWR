@@ -1,5 +1,6 @@
-owner = RPL
-controller = RPL
+owner = HAE
+add_core = HAE
+controller = HAE
 add_core = PRI
 terrain = plains
 trade_goods = cotton

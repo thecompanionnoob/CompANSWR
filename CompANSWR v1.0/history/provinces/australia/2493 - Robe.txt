@@ -1,6 +1,7 @@
-owner = AUG
-controller = AUG
-add_core = AUG
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 trade_goods = wool
 terrain = savanna
 life_rating = 35

@@ -1,5 +1,6 @@
-owner = AUG
-controller = AUG
+owner = HAE
+add_core = HAE
+controller = HAE
 add_core = UNM
 trade_goods = grain
 terrain = hills

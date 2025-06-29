@@ -1,6 +1,6 @@
-owner = BAD
-controller = BAD
-add_core = BAD
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = OUD
 trade_goods = fruit
 life_rating = 40

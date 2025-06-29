@@ -1,5 +1,6 @@
-owner = PRT
-controller = PRT
-add_core = PRT
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,7 @@
-owner = OLD
-controller = OLD
-add_core = OLD
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 trade_goods = grain
 terrain = savanna
 life_rating = 33

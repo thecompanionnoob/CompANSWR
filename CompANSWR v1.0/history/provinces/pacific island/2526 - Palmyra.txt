@@ -1,6 +1,7 @@
-owner = TRE
-controller = TRE
-add_core = TRE
+owner = HAE
+add_core = HAE
+controller = HAE
+add_core = HAE
 terrain = plains
 trade_goods = sulphur
 life_rating = 35
