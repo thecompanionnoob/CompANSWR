@@ -284,10 +284,10 @@ scandinavian = {
     }
     icelandic = {
         color = { 80 20 150}
-        first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
+        first_names = { Agnar Ýsgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
         Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
 
-        last_names = { Arnórsson Ásgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
+        last_names = { Arnórsson Ýsgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjárn Hafstein Hansen
         Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
     }
     union = SCA
@@ -468,7 +468,7 @@ iberian = {
     unit = SpanishGC
     basque = {
         color = {220 170 30}
-        first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
+        first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ýngel Antonio Arturo Carlos
         Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
         Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
         Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
@@ -481,7 +481,7 @@ iberian = {
     }
     spanish = {
         color = {220 220 30}
-        first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+        first_names = { Agustín Alberto Alejandro Alfonso Ýlvaro Antonio "Antonio María" Arsenio Augusto Baldomero
         Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
         Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
         "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
@@ -489,7 +489,7 @@ iberian = {
         Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
         Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
 
-    last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+    last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Ýlvarez "Ýlvarez de Toledo" Aranda Argüelles-Meres Asensio
         Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
         "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
         García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
@@ -513,7 +513,7 @@ iberian = {
     }
     portuguese = {
         color = {160 220 30}
-        first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino
+        first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Ýlvaro André António Aquilino
         Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
         Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando
         Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio Jerônimo João Joaquim Jorge
@@ -665,22 +665,6 @@ south_slavic = {
         Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
         }
     }
-    bosniak = {
-        color = {30 200 200}
-        first_names = { Abdulvehhab Adnan Ahmed Ali Alija Asim Atif Beriz Dzemal Dzemaludin
-        Elvir Enver Fikret Fuad Gazi Hakija Hamdija Hamid Haris Hasan
-        Husein Irfan Isa Ivan Izet Jusuf Mehmed Meho Mirsad Muhamed
-        Musa Mustafa Naser Osman Raif Rasim Refik Safet Safvet Sefer
-        Sejad Semezdin Semir Skender Sokollu Sulejman Vedad Zija Zlatko Zuko
-        }
-
-        last_names = { Abdic Arapovic Basgic Belkic Bijedic Catic Causevic Ceric Colakovic Dizdar
-        Dizdarevic Dzikic Dzumhur Ekrem Gradascevic Halilovic Husrev Ibisevic Ilhamija Imamovic
-        Isakovic Izetbegovic Kodro Konjic Kulenovic Lagumdzija Ljajic Ljubicic Ljubijankic Mehmedinovic
-        Muradbegovic Muzurovic Osmanagic Peco Plakalo Pozderac Prazina Rizvanbegovic Sabanadzovic Salihovic
-        Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tükcan Ugljanin
-        }
-    }
 }
 
 pan_albanian = {
@@ -734,7 +718,7 @@ hungarian_culture_group = {
 
     hungarian = {
         color = {180 255 120}
-        first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
+        first_names = { Alajos Albert Ýlmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
         Károly Katalin Kelemen Krisztian Lajos László Manó Mihály Mór Myklós
@@ -814,7 +798,7 @@ czecho_slovak_culture_group = {
         Michal Mikulás Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
         Rudolf Samuel Sergej Stefan Svtozár Tibor Tomás Viliam Vladimír Vojtech }
 
-        last_names = { Áchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
+        last_names = { Ýchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
         Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husák
         Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
         Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
@@ -828,7 +812,7 @@ czecho_slovak_culture_group = {
         Michal Mikulás Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
         Rudolf Samuel Sergej Stefan Svtozár Tibor Tomás Viliam Vladimír Vojtech }
 
-        last_names = { Áchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
+        last_names = { Ýchim Bázlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
         Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husák
         Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malár Malovec Markovic
         Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
@@ -2374,7 +2358,7 @@ native_american = {
         Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
         Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
 
-        last_names = { Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano
+        last_names = { Abjaisu Ýlvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano
         Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
         Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi }
     }
@@ -2399,7 +2383,7 @@ native_american = {
     }
     tupinamba = {
         color = {43 212 67}
-        first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
+        first_names = { Ýlvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
         Gabriel Gaspar Gonçalo Gustavo Henrique João José Luís Manuel Inácio
         Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor }
 
@@ -2863,14 +2847,14 @@ latin_american_cultures = {
     unit = SouthAmericanGC
     mexican = {
         color = {51 117 62}
-        first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
+        first_names = { Adrián Agustín Ýlvaro Anastasio Andrés Ýngel Antonio Bernardo Emiliano Emilio
         Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
         Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
         Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
         Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
         }
 
-        last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
+        last_names = { Almonte Ýlvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
         Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
         Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
         "Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
@@ -3051,7 +3035,7 @@ south_american_cultures = {
         Nicolás Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
         }
 
-        last_names = { Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belzú Blanche Blanco Bulnes
+        last_names = { Abaroa Ýgreda Altamirano Arteaga Ballivián Baquedano Belzú Blanche Blanco Bulnes
         Cabrera Calvo Campero Castilla Corrico Daza "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal"
         Echenique Errázuriz Fernández Figueroa Franco Freire Gamarra Gorostiaga Grau
         Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
